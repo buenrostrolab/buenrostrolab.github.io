@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Software
+title: 
 group: navigation
 permalink: "software.html"
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Join Us!
+title: 
 group: navigation
 permalink: "joinus.html"
 ---

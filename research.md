@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: 
 group: navigation
 permalink: "research.html"
 ---
