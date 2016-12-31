@@ -26,7 +26,7 @@ navbar-links:
   People: "people"
   Publications: "publications"
   Software: "software"
-  News: "news"
+  News: "news.html"
   Join Us!: "joinus"
 
 # Image to show in the navigation bar - image must be a square (width = height)
