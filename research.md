@@ -2,7 +2,7 @@
 layout: page
 title: Research
 group: navigation
-permalink: "Research.html"
+permalink: "research.html"
 ---
 {% include JB/setup %}
 

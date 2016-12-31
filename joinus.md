@@ -2,7 +2,7 @@
 layout: page
 title: Join Us!
 group: navigation
-permalink: "JoinUs.html"
+permalink: "joinus.html"
 ---
 
 
