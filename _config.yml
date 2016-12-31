@@ -1,5 +1,4 @@
 # --- General options --- #
-
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
@@ -26,7 +25,7 @@ navbar-links:
   Research: "01-research"
   People: "02-people"
   Publications: "O3-pubs"
-  Software: "04-software"
+  Software: "software"
   Join Us!: "05-joinus"
 
 # Image to show in the navigation bar - image must be a square (width = height)

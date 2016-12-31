@@ -4,7 +4,7 @@ title: Join Us!
 group: navigation
 permalink: "JoinUs.html"
 ---
-{% include JB/setup %}
+
 
 Interested?
 -------------
