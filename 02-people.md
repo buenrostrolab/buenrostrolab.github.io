@@ -1,6 +1,6 @@
 ---
 layout: page
-title: People
+title:
 group: navigation
 permalink: "people.html"
 ---
