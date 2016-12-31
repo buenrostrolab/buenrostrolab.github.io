@@ -9,7 +9,16 @@ permalink: "research.html"
 Motivation
 ----------
 
-The human body is comprised of a large collection of diverse cell types, each providing a specialized and context-specific function. The advent of high-throughput single-cell transcriptomics, has enabled unbiased categorization of diverse developmental and diseased cellular trajectories. However, with current genome-wide approaches, little can be done to understand: i) how cells vary through time, ii) how this variance effects cellular decisions and iii) how TFs affect the activity of regulatory elements (trans) and, in turn, how these elements lead to functional expression differences (cis). Our lab seeks to address these challenges by developing the next-generation of biological tools, tools that integrate molecular biology, microscopy and large-scale bioinformatics to provide a systems-level understanding of single-cells.
+The human body is comprised of a large collection of diverse cell types,
+each providing a specialized and context-specific function. The advent of high-throughput
+single-cell transcriptomics, has enabled unbiased categorization of diverse developmental
+and diseased cellular trajectories. However, with current genome-wide approaches,
+little can be done to understand: i) how cells vary through time, ii) how this variance
+effects cellular decisions and iii) how TFs affect the activity of regulatory elements
+(trans) and, in turn, how these elements lead to functional expression differences (cis).
+Our lab seeks to address these challenges by developing the next-generation of biological
+tools, tools that integrate molecular biology, microscopy and large-scale bioinformatics
+to provide a systems-level understanding of single-cells.
 
 
 Research Interests
@@ -29,8 +38,9 @@ Recently, we have also adapted this method to profile the epigenomes of single-c
 We are actively developing technological tools for improving the quality and throughput of these measurements,
 as well as integrating scATAC-seq with other single-cell ‘-omic’ measurements.<br><br>
 
-<img alt="network" align="right" src="media/research/network.jpg" width="200" height="200"/>
 <h3> Advanced computation for inferring ‘causative’ gene networks </h3>
+
+<img alt="network" align="right" src="media/research/network.jpg" width="200" height="200"/>
 
 With the development of novel technologies comes the possibility of new discoveries and subsequently
 the need for new computational tools. We develop computational solutions to support these novel technologies.
