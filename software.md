@@ -9,7 +9,7 @@ permalink: "software.html"
 Resources
 ------------
 
-Visualization of TFs from scATAC [here](https://caleblareau.shinyapps.io/scHemer/).
+Visualization of TFs from scATAC [here](https://schemer.buenrostrolab.com).
 
 Software
 ------------
