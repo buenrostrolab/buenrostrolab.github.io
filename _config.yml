@@ -68,7 +68,7 @@ url-pretty: "buenrostrolab.com"  # eg. "deanattali.com/beautiful-jekyll"
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: UA-85072543-3
 
 # Facebook App ID
 # fb_app_id: ""
