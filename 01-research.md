@@ -26,7 +26,7 @@ Research Interests
 
 <h3> Developing new ‘-omic’ technologies </h3>
 
-<img alt="scATAC.jpg" align="left" src="media/research/scATAC.jpg" width="250" height="220"/>
+<img alt="scATAC.jpg" align="left" src="media/research/scATAC.jpg" width="250" height="210"/>
 
 Our group employs a mix set of skills relating to molecular biology, device engineering and microscopy.
 We use these skills to leverage sequencing technologies to make high-throughput measurements that seek to
