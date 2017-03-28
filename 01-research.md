@@ -25,7 +25,7 @@ Research Interests
 ------------------
 
 <h3> Developing new ‘-omic’ technologies </h3>
-<br>
+
 <img alt="scATAC.jpg" align="left" src="media/research/scATAC.jpg" width="240" height="200"/>
 
 Our group employs a mix set of skills relating to molecular biology, device engineering and microscopy.
@@ -56,7 +56,6 @@ gene networks. Such networks will seek to model governing cis and trans effector
 <h3> Application to dynamic biological systems </h3>
 <img alt="GATA-variance" align="left" src="media/research/GATA-variance.jpg" width="180" height="180"/>
 
-<br>
 These efforts coalesce into our studies of dynamic cellular systems. While we have a broad interest
 in  human development and disease, we currently focus on <a href="http://www.nature.com/ng/journal/v48/n10/full/ng.3646.html" target="_blank">leukemia</a> and early
 <a href="http://biorxiv.org/content/early/2017/02/21/109843.1" target="_blank">human hematopoiesis</a>,
