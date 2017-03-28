@@ -25,7 +25,7 @@ Research Interests
 ------------------
 
 <h3> Developing new ‘-omic’ technologies </h3>
-<img alt="nucleosome-small" align="left" src="media/research/nucleosome-small.jpg" width="220" height="240"/>
+<img alt="scATAC.jpg" align="left" src="media/research/scATAC.jpg" width="240" height="200"/>
 
 Our group employs a mix set of skills relating to molecular biology, device engineering and microscopy.
 We use these skills to leverage sequencing technologies to make high-throughput measurements that seek to
@@ -40,7 +40,7 @@ as well as integrating scATAC-seq with other single-cell ‘-omic’ measurement
 
 <h3> Advanced computation for inferring ‘causative’ gene networks </h3>
 
-<img alt="network" align="right" src="media/research/network.jpg" width="200" height="200"/>
+<img alt="nucleosome-small" align="right" src="media/research/nucleosome-small.jpg" width="220" height="240"/>
 
 With the development of novel technologies comes the possibility of new discoveries and subsequently
 the need for new computational tools. We develop computational solutions to support these novel technologies.
@@ -52,7 +52,7 @@ Now, we look to build new computational methods that focus on integrating ensemb
 gene networks. Such networks will seek to model governing cis and trans effectors of dynamic cell function.<br><br>
 
 <h3> Application to dynamic biological systems </h3>
-<img alt="aml-variance" align="left" src="media/research/aml-variance.jpg" width="240" height="200"/>
+<img alt="GATA-variance" align="left" src="media/research/GATA-variance.jpg" width="220" height="220"/>
 
 These efforts coalesce into our studies of dynamic cellular systems. While we have a broad interest
 in  human development and disease, we currently focus on <a href="http://www.nature.com/ng/journal/v48/n10/full/ng.3646.html" target="_blank">leukemia</a> and early

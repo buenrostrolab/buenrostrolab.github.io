@@ -25,7 +25,7 @@ Research Interests
 ------------------
 
 <h3> Developing new ‘-omic’ technologies </h3>
-<img alt="nucleosome-small" align="left" src="media/research/nucleosome-small.jpg" width="230" height="240"/>
+<img alt="nucleosome-small" align="left" src="media/research/nucleosome-small.jpg" width="220" height="240"/>
 
 Our group employs a mix set of skills relating to molecular biology, device engineering and microscopy.
 We use these skills to leverage sequencing technologies to make high-throughput measurements that seek to
@@ -47,7 +47,7 @@ the need for new computational tools. We develop computational solutions to supp
 Notable examples include methods for high-content
 <a href="http://www.nature.com/nbt/journal/v32/n6/abs/nbt.2880.html" target="_blank">image-analysis</a>,
 <a href="http://genome.cshlp.org/content/early/2015/08/27/gr.192294.115" target="_blank">nucleosome calling</a>
-and <a href="http://www.nature.com/nature/journal/v523/n7561/full/nature14590.html" target="_blank">single-cell epigenomics</a>.
+and <a href="http://biorxiv.org/content/early/2017/02/21/110346" target="_blank">single-cell epigenomics</a>.
 Now, we look to build new computational methods that focus on integrating ensemble and single-cell ‘-omics’ data to infer causative
 gene networks. Such networks will seek to model governing cis and trans effectors of dynamic cell function.<br><br>
 
@@ -55,8 +55,8 @@ gene networks. Such networks will seek to model governing cis and trans effector
 <img alt="aml-variance" align="left" src="media/research/aml-variance.jpg" width="240" height="200"/>
 
 These efforts coalesce into our studies of dynamic cellular systems. While we have a broad interest
-in  human development and disease, we currently focus on early
-<a href="http://www.nature.com/ng/journal/v48/n10/full/ng.3646.html" target="_blank">human hematopoiesis</a>,
+in  human development and disease, we currently focus on <a href="http://www.nature.com/ng/journal/v48/n10/full/ng.3646.html" target="_blank">leukemia</a> and early
+<a href="http://biorxiv.org/content/early/2017/02/21/109843.1" target="_blank">human hematopoiesis</a>,
 however, our efforts are largely collaborative and we welcome new endeavors. In previous work, we have used some
 of the experimental and computational methods described above to both understand molecular effectors that govern
 hematopoietic cell fate and in addition we use these findings to better understand the ontogeny of the human cancer,
