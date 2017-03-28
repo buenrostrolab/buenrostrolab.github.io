@@ -18,14 +18,14 @@ effects cellular decisions and iii) how TFs affect the activity of regulatory el
 (trans) and, in turn, how these elements lead to functional expression differences (cis).
 Our lab seeks to address these challenges by developing the next-generation of biological
 tools, tools that integrate molecular biology, microscopy and large-scale bioinformatics
-to provide a systems-level understanding of single-cells. TEST!
+to provide a systems-level understanding of single-cells.
 
 
 Research Interests
 ------------------
 
 <h3> Developing new ‘-omic’ technologies </h3>
-<img alt="nucleosome-small" align="left" src="media/research/nucleosome-small.jpg" width="200" height="240"/>
+<img alt="nucleosome-small" align="left" src="media/research/nucleosome-small.jpg" width="230" height="240"/>
 
 Our group employs a mix set of skills relating to molecular biology, device engineering and microscopy.
 We use these skills to leverage sequencing technologies to make high-throughput measurements that seek to
