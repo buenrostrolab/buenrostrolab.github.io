@@ -9,8 +9,6 @@ permalink: "software.html"
 Software
 ------------
 
-Visualization of TFs from scATAC [here](https://schemer.buenrostrolab.com).
-
+[Heme TFs](https://schemer.buenrostrolab.com): Visualization of TFs from scATAC heme
 [ChromVAR](https://github.com/GreenleafLab/chromVAR): General use scATAC tools
-
 [NucleoATAC](http://nucleoatac.readthedocs.io/en/latest/): Software for nucleosome calling in ATAC-seq data
