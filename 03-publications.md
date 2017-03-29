@@ -15,12 +15,12 @@ For a full list see: <a href="http://www.ncbi.nlm.nih.gov/pubmed?term=%22Buenros
 
 <b>SELECTED PUBLICATIONS
 1. Corces MR* & <b>Buenrostro JD<\b>*+, Wu B, Greenside PG, Chan SM, Koenig JL, Snyder MP, Pritchard JK, Kundaje A, Greenleaf WJ, Majeti R+, Chang HY+. Lineage-specific and single cell chromatin accessibility charts human hematopoiesis and leukemia evolution. Submitted. (*equal contribution) (+co-senior)
-2. <b>Buenrostro JD, Wu B, Litzenburger U, Gonzales M, Ruff D, Snyder M, Chang HY, Greenleaf WJ. Single-cell chromatin accessibility reveals principles of regulatory variation. Nature. 2015. doi:10.1038/nature14590.
-3. <b>Buenrostro JD* & Araya CL*, Chircus LM, et al. Quantitative analysis of RNA-protein interactions on a massively parallel array reveals biophysical and evolutionary landscapes. Nature Biotechnology. 2014. doi:10.1038/nbt.2880. (*equal contribution)<br>
+2. <b>Buenrostro JD</b>, Wu B, Litzenburger U, Gonzales M, Ruff D, Snyder M, Chang HY, Greenleaf WJ. Single-cell chromatin accessibility reveals principles of regulatory variation. Nature. 2015. doi:10.1038/nature14590.
+3. <b>Buenrostro JD</b>* & Araya CL*, Chircus LM, et al. Quantitative analysis of RNA-protein interactions on a massively parallel array reveals biophysical and evolutionary landscapes. Nature Biotechnology. 2014. doi:10.1038/nbt.2880. (*equal contribution)<br>
 •  Selected as the cover for Nature Biotechnology
-4. <b>Buenrostro JD, Giresi PG, Zaba LC, Chang HY, Greenleaf WJ. Transposition of native chromatin for fast and sensitive epigenomic profiling of open chromatin, DNA-binding proteins and nucleosome position. Nature Methods. 2013;10(12):1213–1218. doi:10.1038/nmeth.2688.US 
-5. Carpenter ML, <b>Buenrostro JD, Valdiosera C, et al. Pulling out the 1%: Whole-Genome Capture for the Targeted Enrichment of Ancient DNA Sequencing Libraries. The American Journal of Human Genetics. 2013;93(5):852–864. doi:10.1016/j.ajhg.2013.10.002.
-6. Myllykangas S* & <b>Buenrostro JD*, Natsoulis G, Bell JM, Ji HP. Efficient targeted resequencing of human germline and cancer genomes by oligonucleotide-selective sequencing. Nature Biotechnology. 2011;29(11):1024–1027. doi:10.1038/nbt.1996. (*equal contribution)
+4. <b>Buenrostro JD</b>, Giresi PG, Zaba LC, Chang HY, Greenleaf WJ. Transposition of native chromatin for fast and sensitive epigenomic profiling of open chromatin, DNA-binding proteins and nucleosome position. Nature Methods. 2013;10(12):1213–1218. doi:10.1038/nmeth.2688.US 
+5. Carpenter ML, <b>Buenrostro JD</b>, Valdiosera C, et al. Pulling out the 1%: Whole-Genome Capture for the Targeted Enrichment of Ancient DNA Sequencing Libraries. The American Journal of Human Genetics. 2013;93(5):852–864. doi:10.1016/j.ajhg.2013.10.002.
+6. Myllykangas S* & <b>Buenrostro JD</b>*, Natsoulis G, Bell JM, Ji HP. Efficient targeted resequencing of human germline and cancer genomes by oligonucleotide-selective sequencing. Nature Biotechnology. 2011;29(11):1024–1027. doi:10.1038/nbt.1996. (*equal contribution)
 
 <b>ADDITONAL PUBLICATIONS
 7. Litzenburger UM, Buenrostro JD, Wu B, Shen Y, Sheffield NC, Kathiria A, Greenleaf WJ, Chang HY. Single-cell epigenomic variability reveals functional cancer heterogeneity. Genome Biol (2017).
