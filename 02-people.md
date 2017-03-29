@@ -55,3 +55,8 @@ GitHub: [jdbuenrostro](https://github.com/jdbuenrostro)<br>
 &nbsp;&nbsp;&nbsp;David Morse, BS<br>
 &nbsp;&nbsp;&nbsp;Visiting Student<br>
 <br><br><br><br>
+
+<img alt="Cassandra Trowbridge" align="left" src="media/people/CassandraTrowbridge.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;Cassandra Trowbridge, BS<br>
+&nbsp;&nbsp;&nbsp;Broad Fellows Coordinator<br>
+<br><br><br><br>
