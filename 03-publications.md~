@@ -11,7 +11,7 @@ permalink: "publications.html"
 Publications
 ------------------------
 
-For a full list see: <a href="http://www.ncbi.nlm.nih.gov/pubmed?term=%22Buenrostro%20J%22%5BAuthor%5D%20OR%20%22Buenrostro%20JD%22%5BAuthor%5D" target="_blank">PubMed</a>
+For a full list see: <a href="http://www.ncbi.nlm.nih.gov/pubmed?term=%22Buenrostro%20J%22%5BAuthor%5D%20OR%20%22Buenrostro%20JD%22%5BAuthor%5D" target="_blank">PubMed</a> or <a href="https://scholar.google.com/citations?user=M9sejPIAAAAJ&hl=en" target="_blank">Google Scholar</a>
 
 <b>SELECTED PUBLICATIONS
 1. <b>Buenrostro JD</b>\*, Corces R, Wu B, Schep AN, <b>Lareau C</b>, Majeti R, Chang H, Greenleaf WJ\*. <a href="http://biorxiv.org/content/early/2017/02/21/109843.1" target="_blank">Single-cell epigenomics maps the continuous regulatory landscape of human hematopoietic differentiation</a>. Biorxiv (2017). (\*co-corresponding)
@@ -25,8 +25,8 @@ For a full list see: <a href="http://www.ncbi.nlm.nih.gov/pubmed?term=%22Buenros
 8. Myllykangas S\* & <b>Buenrostro JD</b>\*, Natsoulis G, Bell JM, Ji HP. <a href="http://www.nature.com/nbt/journal/v29/n11/full/nbt.1996.html" target="_blank">Efficient targeted resequencing of human germline and cancer genomes by oligonucleotide-selective sequencing</a>. Nature Biotechnology (2011). (\*equal contribution)
 
 <b>ADDITONAL PUBLICATIONS
-9. She R, Chakravarty AK, Layton CJ, Chircus LM, Andreasson JO, Damaraju N, McMahon PL, Buenrostro JD, Jarosz DF, Greenleaf WJ.Comprehensive and quantitative mapping of RNA-protein interactions across a transcribed eukaryotic genome. PNAS (2017).
-10. Miller EL, Hargreaves DC, Kadoch C, Chang CY, Calarco JP, Hodges C, Buenrostro JD, Cui K, Greenleaf WJ, Zhao K, Crabtree GR. TOP2 synergizes with BAF chromatin remodeling for both resolution and formation of facultative heterochromatin. Nat Struct Mol Biol. (2017).
+9. She R, Chakravarty AK, Layton CJ, Chircus LM, Andreasson JO, Damaraju N, McMahon PL, <b>Buenrostro JD</b>, Jarosz DF, Greenleaf WJ.Comprehensive and quantitative mapping of RNA-protein interactions across a transcribed eukaryotic genome. PNAS (2017).
+10. Miller EL, Hargreaves DC, Kadoch C, Chang CY, Calarco JP, Hodges C, <b>Buenrostro JD</b>, Cui K, Greenleaf WJ, Zhao K, Crabtree GR. TOP2 synergizes with BAF chromatin remodeling for both resolution and formation of facultative heterochromatin. Nat Struct Mol Biol. (2017).
 11. Litzenburger UM, <b>Buenrostro JD</b>, Wu B, Shen Y, Sheffield NC, Kathiria A, Greenleaf WJ, Chang HY. Single-cell epigenomic variability reveals functional cancer heterogeneity. Genome Biol (2017).
 12. Guo MH, Nandakumar SK, Ulirsch JC, Zekavat SM, <b>Buenrostro JD</b>, Natarajan P, Salem RM, Chiarle R, Mitt M, Kals M, Pärn K, Fischer K, Milani L, Mägi R, Palta P, Gabriel SB, Metspalu A, Lander ES, Kathiresan S, Hirschhorn JN, Esko T, Sankaran VG. Comprehensive population-based genome sequencing provides insight into hematopoietic regulatory mechanisms. PNAS (2017).
 13. Chen X, Shen Y, Draper W, <b>Buenrostro JD</b>, Litzenburger U, Cho SW, Satpathy AT, Carter AC, Ghosh RP, East-Seletsky A, Doudna JA, Greenleaf WJ, Liphardt JT, Chang HY. ATAC-see reveals the accessible genome by transposase-mediated imaging and sequencing. Nature Methods (2016).
@@ -38,6 +38,6 @@ For a full list see: <a href="http://www.ncbi.nlm.nih.gov/pubmed?term=%22Buenros
 19. Myllykangas S, <b>Buenrostro J</b>, Ji HP. Overview of Sequencing Technology Platforms.  Rodriguez-Expeleta N, Hackenberg M, Aransay A, Bioinformatics for High Throughput Sequencing. p11-26. Springer (2012).
 20. Flaherty P, Natsoulis G, Muralidharan O, Winters M, <b>Buenrostro J</b>, Bell J, et al. Ultrasensitive detection of rare mutations using next-generation targeted resequencing. Nucleic Acids Res (2012).
 19. Natsoulis G, Bell JM, Xu H, <b>Buenrostro JD</b>, Ordonez H, et al. A Flexible Approach for Highly Multiplexed Candidate Gene Targeted Resequencing. PLoS ONE (2011).
-21. Dick CA, <b>Buenrostro J<b>, Butler T, Carlson ML, Kliebenstein DJ, Whittall JB. Arctic Mustard Flower Color Polymorphism Controlled by Petal-Specific Downregulation at the Threshold of the Anthocyanin Biosynthetic Pathway. PLoS ONE (2011).
+21. Dick CA, <b>Buenrostro J</b>, Butler T, Carlson ML, Kliebenstein DJ, Whittall JB. Arctic Mustard Flower Color Polymorphism Controlled by Petal-Specific Downregulation at the Threshold of the Anthocyanin Biosynthetic Pathway. PLoS ONE (2011).
 22. Whittall JB, Syring J, Parks M, <b>Buenrostro J</b>, Dick C, Liston A, Cronn R. Finding a (pine) needle in a haystack: chloroplast genome sequence divergence in rare and widespread pines. Molecular Ecology (2010).
 
