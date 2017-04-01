@@ -14,7 +14,7 @@ Publications
 For a full list see: <a href="http://www.ncbi.nlm.nih.gov/pubmed?term=%22Buenrostro%20J%22%5BAuthor%5D%20OR%20%22Buenrostro%20JD%22%5BAuthor%5D" target="_blank">PubMed</a>
 
 <b>SELECTED PUBLICATIONS
-1. Corces MR* & <b>Buenrostro JD<\b>*+, Wu B, Greenside PG, Chan SM, Koenig JL, Snyder MP, Pritchard JK, Kundaje A, Greenleaf WJ, Majeti R+, Chang HY+. Lineage-specific and single cell chromatin accessibility charts human hematopoiesis and leukemia evolution. Submitted. (*equal contribution) (+co-senior)
+1. Corces MR* & <b>Buenrostro JD</b>*+, Wu B, Greenside PG, Chan SM, Koenig JL, Snyder MP, Pritchard JK, Kundaje A, Greenleaf WJ, Majeti R+, Chang HY+. Lineage-specific and single cell chromatin accessibility charts human hematopoiesis and leukemia evolution. Submitted. (*equal contribution) (+co-senior)
 2. <b>Buenrostro JD</b>, Wu B, Litzenburger U, Gonzales M, Ruff D, Snyder M, Chang HY, Greenleaf WJ. Single-cell chromatin accessibility reveals principles of regulatory variation. Nature. 2015. doi:10.1038/nature14590.
 3. <b>Buenrostro JD</b>* & Araya CL*, Chircus LM, et al. Quantitative analysis of RNA-protein interactions on a massively parallel array reveals biophysical and evolutionary landscapes. Nature Biotechnology. 2014. doi:10.1038/nbt.2880. (*equal contribution)<br>
 •  Selected as the cover for Nature Biotechnology
