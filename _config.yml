@@ -120,7 +120,7 @@ exclude:
 
 # prose.io config
 prose:
-  rooturl: 'posts'
+  rooturl: '_posts'
   media: 'img'
   ignore:
     - 404.html
