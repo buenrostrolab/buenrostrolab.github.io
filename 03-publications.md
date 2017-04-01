@@ -15,14 +15,21 @@ For a full list see: <a href="http://www.ncbi.nlm.nih.gov/pubmed?term=%22Buenros
 
 <b>SELECTED PUBLICATIONS
 1. <b>Buenrostro JD</b>\*, Corces R, Wu B, Schep AN, <b>Lareau C</b>, Majeti R, Chang H, Greenleaf WJ\*. <a href="http://www.nature.com/nbt/journal/v32/n6/abs/nbt.2880.html" target="_blank">Single-cell epigenomics maps the continuous regulatory landscape of human hematopoietic differentiation</a>. Biorxiv (2017). (\*co-corresponding)
-2. Schep AN, <b>Buenrostro JD</b>\*, Greenleaf WJ\*. chromVAR: Inferring transcription factor variation from single-cell epigenomic data. Biorxiv (2017). (\*co-corresponding)
-3. Corces MR\* & <b>Buenrostro JD</b>\*+, Wu B, Greenside PG, Chan SM, Koenig JL, Snyder MP, Pritchard JK, Kundaje A, Greenleaf WJ, Majeti R+, Chang HY+. Lineage-specific and single cell chromatin accessibility charts human hematopoiesis and leukemia evolution. Nature Genetics (2016). (\*equal contribution) (+co-senior)
-4. <b>Buenrostro JD</b>, Wu B, Litzenburger U, Gonzales M, Ruff D, Snyder M, Chang HY, Greenleaf WJ. Single-cell chromatin accessibility reveals principles of regulatory variation. Nature (2015).
-5. <b>Buenrostro JD</b>\* & Araya CL\*, Chircus LM, et al. Quantitative analysis of RNA-protein interactions on a massively parallel array reveals biophysical and evolutionary landscapes. Nature Biotechnology (2014). (\*equal contribution)<br>
+2. Schep AN, <b>Buenrostro JD</b>\*, Greenleaf WJ\*. <a href="http://www.nature.com/nbt/journal/v32/n6/abs/nbt.2880.htm\
+l" target="_blank">chromVAR: Inferring transcription factor variation from single-cell epigenomic data</a>. Biorxiv (2017). (\*co-corresponding)
+3. Corces MR\* & <b>Buenrostro JD</b>\*+, Wu B, Greenside PG, Chan SM, Koenig JL, Snyder MP, Pritchard JK, Kundaje A, Greenleaf WJ, Majeti R+, Chang HY+. <a href="http://www.nature.com/nbt/journal/v32/n6/abs/nbt.2880.htm\
+l" target="_blank">Lineage-specific and single cell chromatin accessibility charts human hematopoiesis and leukemia evolution</a>. Nature Genetics (2016). (\*equal contribution) (+co-senior)
+4. <b>Buenrostro JD</b>, Wu B, Litzenburger U, Gonzales M, Ruff D, Snyder M, Chang HY, Greenleaf WJ. <a href="http://www.nature.com/nbt/journal/v32/n6/abs/nbt.2880.htm\
+l" target="_blank">Single-cell chromatin accessibility reveals principles of regulatory variation</a>. Nature (2015).
+5. <b>Buenrostro JD</b>\* & Araya CL\*, Chircus LM, et al. <a href="http://www.nature.com/nbt/journal/v32/n6/abs/nbt.2880.htm\
+l" target="_blank">Quantitative analysis of RNA-protein interactions on a massively parallel array reveals biophysical and evolutionary landscapes</a>. Nature Biotechnology (2014). (\*equal contribution)<br>
 •  Selected as the cover for Nature Biotechnology
-6. <b>Buenrostro JD</b>, Giresi PG, Zaba LC, Chang HY, Greenleaf WJ. Transposition of native chromatin for fast and sensitive epigenomic profiling of open chromatin, DNA-binding proteins and nucleosome position. Nature Methods (2013).
-7. Carpenter ML, <b>Buenrostro JD</b>, Valdiosera C, et al. Pulling out the 1%: Whole-Genome Capture for the Targeted Enrichment of Ancient DNA Sequencing Libraries. The American Journal of Human Genetics (2013).
-8. Myllykangas S\* & <b>Buenrostro JD</b>\*, Natsoulis G, Bell JM, Ji HP. Efficient targeted resequencing of human germline and cancer genomes by oligonucleotide-selective sequencing. Nature Biotechnology (2011). (\*equal contribution)
+6. <b>Buenrostro JD</b>, Giresi PG, Zaba LC, Chang HY, Greenleaf WJ. <a href="http://www.nature.com/nbt/journal/v32/n6/abs/nbt.2880.htm\
+l" target="_blank">Transposition of native chromatin for fast and sensitive epigenomic profiling of open chromatin, DNA-binding proteins and nucleosome position</a>. Nature Methods (2013).
+7. Carpenter ML, <b>Buenrostro JD</b>, Valdiosera C, et al. <a href="http://www.nature.com/nbt/journal/v32/n6/abs/nbt.2880.htm\
+l" target="_blank">Pulling out the 1%: Whole-Genome Capture for the Targeted Enrichment of Ancient DNA Sequencing Libraries</a>. The American Journal of Human Genetics (2013).
+8. Myllykangas S\* & <b>Buenrostro JD</b>\*, Natsoulis G, Bell JM, Ji HP. <a href="http://www.nature.com/nbt/journal/v32/n6/abs/nbt.2880.htm\
+l" target="_blank">Efficient targeted resequencing of human germline and cancer genomes by oligonucleotide-selective sequencing</a>. Nature Biotechnology (2011). (\*equal contribution)
 
 <b>ADDITONAL PUBLICATIONS
 9. Litzenburger UM, <b>Buenrostro JD</b>, Wu B, Shen Y, Sheffield NC, Kathiria A, Greenleaf WJ, Chang HY. Single-cell epigenomic variability reveals functional cancer heterogeneity. Genome Biol (2017).
