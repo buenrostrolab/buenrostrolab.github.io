@@ -25,7 +25,7 @@ For a full list see: <a href="http://www.ncbi.nlm.nih.gov/pubmed?term=%22Buenros
 8. Myllykangas S\* & <b>Buenrostro JD</b>\*, Natsoulis G, Bell JM, Ji HP. <a href="http://www.nature.com/nbt/journal/v29/n11/full/nbt.1996.html" target="_blank">Efficient targeted resequencing of human germline and cancer genomes by oligonucleotide-selective sequencing</a>. Nature Biotechnology (2011). (\*equal contribution)
 
 <b>ADDITONAL PUBLICATIONS
-9. She R, Chakravarty AK, Layton CJ, Chircus LM, Andreasson JO, Damaraju N, McMahon PL, <b>Buenrostro JD</b>, Jarosz DF, Greenleaf WJ.Comprehensive and quantitative mapping of RNA-protein interactions across a transcribed eukaryotic genome. PNAS (2017).
+9. She R, Chakravarty AK, Layton CJ, Chircus LM, Andreasson JO, Damaraju N, McMahon PL, <b>Buenrostro JD</b>, Jarosz DF, Greenleaf WJ. Comprehensive and quantitative mapping of RNA-protein interactions across a transcribed eukaryotic genome. PNAS (2017).
 10. Miller EL, Hargreaves DC, Kadoch C, Chang CY, Calarco JP, Hodges C, <b>Buenrostro JD</b>, Cui K, Greenleaf WJ, Zhao K, Crabtree GR. TOP2 synergizes with BAF chromatin remodeling for both resolution and formation of facultative heterochromatin. Nat Struct Mol Biol. (2017).
 11. Moskowitz DM, Zhang DW, Hu B, Le Saux S, Yanes RE, Ye Z, <b>Buenrostro JD</b>, Weyand CM, Greenleaf WJ, Goronzy JJ. Epigenomics of human CD8 T cell differentiation and aging. Science Immunology (2017).
 11. Litzenburger UM, <b>Buenrostro JD</b>, Wu B, Shen Y, Sheffield NC, Kathiria A, Greenleaf WJ, Chang HY. Single-cell epigenomic variability reveals functional cancer heterogeneity. Genome Biol (2017).
