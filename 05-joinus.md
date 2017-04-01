@@ -14,5 +14,5 @@ We are currently recruiting highly talented individuals at every stage of scient
 For more information about the group contact <a href="mailto:jbuen@broadinstitute.org">Jason Buenrostro.
 
 
-<img alt="Marcin Tabaka" align="center" src="media/bigimg/Cambridge-Boston.jpg" width="800" height="400"/>
+<img alt="Cambridge-Boston" align="center" src="media/bigimg/Cambridge-Boston.jpg" width="800" height="400"/>
 
