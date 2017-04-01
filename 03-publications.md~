@@ -18,7 +18,7 @@ For a full list see: <a href="http://www.ncbi.nlm.nih.gov/pubmed?term=%22Buenros
 2. Schep AN, <b>Buenrostro JD</b>*, Greenleaf WJ*. chromVAR: Inferring transcription factor variation from single-cell epigenomic data. Biorxiv (2017). (*co-corresponding)
 3. Corces MR* & <b>Buenrostro JD</b>*+, Wu B, Greenside PG, Chan SM, Koenig JL, Snyder MP, Pritchard JK, Kundaje A, Greenleaf WJ, Majeti R+, Chang HY+. Lineage-specific and single cell chromatin accessibility charts human hematopoiesis and leukemia evolution. Nature Genetics (2016). (*equal contribution) (+co-senior)
 4. <b>Buenrostro JD</b>, Wu B, Litzenburger U, Gonzales M, Ruff D, Snyder M, Chang HY, Greenleaf WJ. Single-cell chromatin accessibility reveals principles of regulatory variation. Nature (2015).
-5. <b>Buenrostro JD</b>* & Araya CL*, Chircus LM, et al. Quantitative analysis of RNA-protein interactions on a massively parallel array reveals biophysical and evolutionary landscapes. Nature Biotechnology (2014). (*equal contribution)<br>
+5. <b>Buenrostro JD</b>* & Araya CL/*, Chircus LM, et al. Quantitative analysis of RNA-protein interactions on a massively parallel array reveals biophysical and evolutionary landscapes. Nature Biotechnology (2014). (*equal contribution)<br>
 •  Selected as the cover for Nature Biotechnology
 6. <b>Buenrostro JD</b>, Giresi PG, Zaba LC, Chang HY, Greenleaf WJ. Transposition of native chromatin for fast and sensitive epigenomic profiling of open chromatin, DNA-binding proteins and nucleosome position. Nature Methods (2013).
 7. Carpenter ML, <b>Buenrostro JD</b>, Valdiosera C, et al. Pulling out the 1%: Whole-Genome Capture for the Targeted Enrichment of Ancient DNA Sequencing Libraries. The American Journal of Human Genetics (2013).
