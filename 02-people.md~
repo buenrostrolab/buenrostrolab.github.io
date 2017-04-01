@@ -13,7 +13,7 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;Harvard Society Junior Fellow<br>
 <br>
 &nbsp;&nbsp;&nbsp;Twitter: [@jd_buenrostro](https://twitter.com/jd_buenrostro)<br>
-&nbsp;&nbsp;&nbsp;<a href="mailto:jbuen@broadinstitute.org">Contact<br>
+&nbsp;&nbsp;&nbsp;<a href="mailto:jbuen@broadinstitute.org">Contact
 
 <br>
 
