@@ -42,3 +42,7 @@ For a full list see: <a href="http://www.ncbi.nlm.nih.gov/pubmed?term=%22Buenros
 21. Dick CA, <b>Buenrostro J</b>, Butler T, Carlson ML, Kliebenstein DJ, Whittall JB. Arctic Mustard Flower Color Polymorphism Controlled by Petal-Specific Downregulation at the Threshold of the Anthocyanin Biosynthetic Pathway. PLoS ONE (2011).
 22. Whittall JB, Syring J, Parks M, <b>Buenrostro J</b>, Dick C, Liston A, Cronn R. Finding a (pine) needle in a haystack: chloroplast genome sequence divergence in rare and widespread pines. Molecular Ecology (2010).
 
+<b>PATENTS
+1. Giresi P, <b>Buenrostro JD</b>, Chang HY, Greenleaf WJ. <a href="https://www.google.com/patents/US20160060691" target="_blank">Transposition of Native Chromatin for Personal Epigenomics</a> (2013).
+2. Bustamante CD, Carpenter ML, <b>Buenrostro JD</b>, Greenleaf WJ. <a href="https://www.google.com/patents/US20150360194" target="_blank">Enrichment of DNA Sequencing Libraries from Samples Containing Small Amounts of Target DNA</a> (2013).
+3. Myllykangas S, <b>Buenrostro JD</b>, Ji HP. <a href="https://www.google.com/patents/US9309556" target="_blank">Direct Capture, Amplification and Sequencing of Target DNA Using Immobilized Primers</a> (2010).
