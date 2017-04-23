@@ -25,7 +25,7 @@ For a full list see: <a href="http://www.ncbi.nlm.nih.gov/pubmed?term=%22Buenros
 8. Carpenter ML, <b>Buenrostro JD</b>, Valdiosera C, et al. <a href="http://www.sciencedirect.com/science/article/pii/S000292971300459X" target="_blank">Pulling out the 1%: Whole-Genome Capture for the Targeted Enrichment of Ancient DNA Sequencing Libraries</a>. The American Journal of Human Genetics (2013).
 9. Myllykangas S\* & <b>Buenrostro JD</b>\*, Natsoulis G, Bell JM, Ji HP. <a href="http://www.nature.com/nbt/journal/v29/n11/full/nbt.1996.html" target="_blank">Efficient targeted resequencing of human germline and cancer genomes by oligonucleotide-selective sequencing</a>. Nature Biotechnology (2011). (\*equal contribution)
 
-<b>ADDITONAL PUBLICATIONS
+<b>ADDITIONAL PUBLICATIONS
 10. She R, Chakravarty AK, Layton CJ, Chircus LM, Andreasson JO, Damaraju N, McMahon PL, <b>Buenrostro JD</b>, Jarosz DF, Greenleaf WJ. <a href="http://www.pnas.org/content/114/14/3619.abstract" target="_blank">Comprehensive and quantitative mapping of RNA-protein interactions across a transcribed eukaryotic genome</a>. PNAS (2017).
 11. Miller EL, Hargreaves DC, Kadoch C, Chang CY, Calarco JP, Hodges C, <b>Buenrostro JD</b>, Cui K, Greenleaf WJ, Zhao K, Crabtree GR. <a href="http://www.nature.com/nsmb/journal/v24/n4/full/nsmb.3384.html" target="_blank">TOP2 synergizes with BAF chromatin remodeling for both resolution and formation of facultative heterochromatin</a>. Nat Struct Mol Biol. (2017).
 12. Moskowitz DM, Zhang DW, Hu B, Le Saux S, Yanes RE, Ye Z, <b>Buenrostro JD</b>, Weyand CM, Greenleaf WJ, Goronzy JJ. <a href="http://immunology.sciencemag.org/content/2/8/eaag0192" target="_blank">Epigenomics of human CD8 T cell differentiation and aging</a>. Science Immunology (2017).
