@@ -29,7 +29,7 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;Vijay Sankaran Lab<br>
 <br><br><br>
 
-<img alt="Lindsay LaFave" align="left" src="media/people/LindsayLaFave.jpg" width="140" height="140"/>
+<img alt="Lindsay LaFave" align="left" src="media/people/LindsayLaFave2.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Lindsay LaFave, PhD</b><br>
 &nbsp;&nbsp;&nbsp;Collaborating Post Doc<br>
 &nbsp;&nbsp;&nbsp;Tyler Jacks Lab<br>
