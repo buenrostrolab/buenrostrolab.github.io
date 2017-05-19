@@ -14,7 +14,6 @@ permalink: "people.html"
 <br>
 &nbsp;&nbsp;&nbsp;Twitter: [@jd_buenrostro](https://twitter.com/jd_buenrostro)<br>
 &nbsp;&nbsp;&nbsp;<a href="mailto:jbuen@broadinstitute.org">Contact
-
 <br>
 
 <img alt="Marcin Tabaka" align="left" src="media/people/MarcinTabaka.jpg" width="140" height="140"/>

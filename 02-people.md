@@ -29,6 +29,12 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;Vijay Sankaran Lab<br>
 <br><br><br>
 
+<img alt="Lindsay LaFave" align="left" src="media/people/LindsayLaFave.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Lindsay LaFave, PhD</b><br>
+&nbsp;&nbsp;&nbsp;Collaborating Post Doc<br>
+&nbsp;&nbsp;&nbsp;Tyler Jacks Lab<br>
+<br><br><br><br>
+
 <img alt="Caleb Lareau" align="left" src="media/people/CalebLareau.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Caleb A. Lareau, BSc</b><br>
 &nbsp;&nbsp;&nbsp;PhD Student<br>
