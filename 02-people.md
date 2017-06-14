@@ -20,20 +20,20 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;<b>Marcin Tabaka, PhD</b><br>
 &nbsp;&nbsp;&nbsp;Collaborating Post Doc<br>
 &nbsp;&nbsp;&nbsp;Aviv Regev Lab<br>
-<br><br><br><br>
+<br><br><br>
 
 <img alt="Leif Ludwig" align="left" src="media/people/LeifLudwig.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Leif Ludwig, MD PhD</b><br>
 &nbsp;&nbsp;&nbsp;Collaborating Post Doc<br>
 &nbsp;&nbsp;&nbsp;Aviv Regev Lab<br>
 &nbsp;&nbsp;&nbsp;Vijay Sankaran Lab<br>
-<br><br><br>
+<br><br>
 
 <img alt="Lindsay LaFave" align="left" src="media/people/LindsayLaFave.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Lindsay LaFave, PhD</b><br>
 &nbsp;&nbsp;&nbsp;Collaborating Post Doc<br>
 &nbsp;&nbsp;&nbsp;Tyler Jacks Lab<br>
-<br><br><br><br>
+<br><br><br>
 
 <img alt="Caleb Lareau" align="left" src="media/people/CalebLareau.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Caleb A. Lareau, BSc</b><br>
@@ -49,12 +49,12 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;Collaborating Graduate Student<br>
 &nbsp;&nbsp;&nbsp;Dave Weitz Lab<br>
 &nbsp;&nbsp;&nbsp;Aviv Regev Lab<br>
-<br><br><br>
+<br><br>
 
 <img alt="Travis Law" align="left" src="media/people/TravisLaw.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Travis Law, BS</b><br>
 &nbsp;&nbsp;&nbsp;Research Assistant<br>
-<br><br><br><br><br>
+<br><br><br><br>
 
 <img alt="David Morse" align="left" src="media/people/DavidMorse.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>David Morse, BS</b><br>

@@ -61,6 +61,12 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;Visiting Student<br>
 <br><br><br><br>
 
+<img alt="Jacob Ulirsch" align="left" src="media/people/JacobUlirsch.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Jacob Ulirsch, BS</b><br>
+&nbsp;&nbsp;&nbsp;Collaborating scientist<br>
+&nbsp;&nbsp;&nbsp;Vijay Sankaran Lab<br>
+<br><br><br>
+
 <img alt="Cassandra Trowbridge" align="left" src="media/people/CassandraTrowbridge.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Cassandra Trowbridge, BS</b><br>
 &nbsp;&nbsp;&nbsp;Broad Fellows Coordinator<br>
