@@ -42,7 +42,6 @@ permalink: "people.html"
 <br>
 &nbsp;&nbsp;&nbsp;GitHub: [caleblareau](https://github.com/caleblareau)<br>
 &nbsp;&nbsp;&nbsp;[Personal Webpage](http://caleblareau.github.io/)
-
 <img alt="Christoph Muus" align="left" src="media/people/ChristophMuus.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Christoph Muus, BSc</b><br>
 &nbsp;&nbsp;&nbsp;Collaborating Graduate Student<br>

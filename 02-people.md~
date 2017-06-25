@@ -12,7 +12,7 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;Broad Institute Fellow<br>
 &nbsp;&nbsp;&nbsp;Harvard Society Junior Fellow<br>
 &nbsp;&nbsp;&nbsp;Allen Distinguished Investigator<br>
-&nbsp;&nbsp;&nbsp;Twitter: [@jd_buenrostro]<https://twitter.com/jd_buenrostro><br>
+&nbsp;&nbsp;&nbsp;Twitter: [@jd_buenrostro](https://twitter.com/jd_buenrostro)<br>
 &nbsp;&nbsp;&nbsp;<a href="mailto:jbuen@broadinstitute.org">Contact
 
 <img alt="Marcin Tabaka" align="left" src="media/people/MarcinTabaka.jpg" width="140" height="140"/>
