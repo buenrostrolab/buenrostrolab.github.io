@@ -14,7 +14,6 @@ permalink: "people.html"
 <br>
 &nbsp;&nbsp;&nbsp;Twitter: [@jd_buenrostro](https://twitter.com/jd_buenrostro)<br>
 &nbsp;&nbsp;&nbsp;<a href="mailto:jbuen@broadinstitute.org">Contact
-<br>
 
 <img alt="Marcin Tabaka" align="left" src="media/people/MarcinTabaka.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Marcin Tabaka, PhD</b><br>
@@ -42,7 +41,7 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;Harvard University<br>
 <br>
 &nbsp;&nbsp;&nbsp;GitHub: [caleblareau](https://github.com/caleblareau)<br>
-&nbsp;&nbsp;&nbsp;[Personal Webpage](http://caleblareau.github.io/)<br>
+&nbsp;&nbsp;&nbsp;[Personal Webpage](http://caleblareau.github.io/)
 
 <img alt="Christoph Muus" align="left" src="media/people/ChristophMuus.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Christoph Muus, BSc</b><br>
