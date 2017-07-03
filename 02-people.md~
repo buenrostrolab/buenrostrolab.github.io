@@ -39,7 +39,6 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;PhD Student<br>
 &nbsp;&nbsp;&nbsp;[Department of Biostatistics](https://www.hsph.harvard.edu/biostatistics/)<br>
 &nbsp;&nbsp;&nbsp;Harvard University<br>
-<br>
 &nbsp;&nbsp;&nbsp;GitHub: [caleblareau](https://github.com/caleblareau)<br>
 &nbsp;&nbsp;&nbsp;[Personal Webpage](http://caleblareau.github.io/)
 
@@ -52,7 +51,7 @@ permalink: "people.html"
 
 <img alt="Zack Chiang" align="left" src="media/people/ZackChiang.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Zack Chiang, BS</b><br>
-&nbsp;&nbsp;&nbsp;Rotating Graduate Student<br>
+&nbsp;&nbsp;&nbsp;Graduate Student<br>
 &nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
