@@ -50,10 +50,24 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;Aviv Regev Lab<br>
 <br><br>
 
+<img alt="Zack Chiang" align="left" src="media/people/ZackChiang.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Zack Chiang, BS</b><br>
+&nbsp;&nbsp;&nbsp;Rotating Graduate Student<br>
+&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;<br>
+<br><br>
+
 <img alt="Travis Law" align="left" src="media/people/TravisLaw.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Travis Law, BS</b><br>
 &nbsp;&nbsp;&nbsp;Research Assistant<br>
 <br><br><br><br>
+
+<img alt="Alison Brack" align="left" src="media/people/AlisonBrack.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>AlisonBrack, BS</b><br>
+&nbsp;&nbsp;&nbsp;Research Assistant<br>
+&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;<br>
+<br><br>
 
 <img alt="David Morse" align="left" src="media/people/DavidMorse.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>David Morse, BS</b><br>
