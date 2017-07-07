@@ -11,7 +11,11 @@ baseurl: ""
 title: Buenrostro Lab 
 
 # Short description of your site
-description: Home Page for Buenrostro Lab
+description: > # this means to ignore newlines until 
+  The Buenrostro Lab researches the regulatory programs and
+  chromatin dynamics underlying cell fate decisions in
+  an effort to understand lineage commitment and cell fate
+  decisions.
 
 # --- Navigation bar options --- #
 
