@@ -35,11 +35,10 @@ permalink: "people.html"
 <br><br><br>
 
 <img alt="Caleb Lareau" align="left" src="media/people/CalebLareau.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Caleb A. Lareau, MA</b><br>
-&nbsp;&nbsp;&nbsp;PhD Student<br>
-&nbsp;&nbsp;&nbsp;[Department of Biostatistics](https://www.hsph.harvard.edu/biostatistics/)<br>
-&nbsp;&nbsp;&nbsp;Harvard University<br>
-&nbsp;&nbsp;&nbsp;GitHub: [caleblareau](https://github.com/caleblareau)<br>
+&nbsp;&nbsp;&nbsp;<b>Caleb Lareau, MA</b><br>
+&nbsp;&nbsp;&nbsp;Graduate Student<br>
+&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;<br>
 <br><br>
 
 <img alt="Christoph Muus" align="left" src="media/people/ChristophMuus.jpg" width="140" height="140"/>
@@ -62,7 +61,7 @@ permalink: "people.html"
 <br><br><br><br>
 
 <img alt="Alison Brack" align="left" src="media/people/AlisonBrack.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>AlisonBrack, BS</b><br>
+&nbsp;&nbsp;&nbsp;<b>Alison Brack, BS</b><br>
 &nbsp;&nbsp;&nbsp;Research Assistant<br>
 &nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;<br>
