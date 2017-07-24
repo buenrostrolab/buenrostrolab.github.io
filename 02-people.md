@@ -41,13 +41,6 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
 
-<img alt="Christoph Muus" align="left" src="media/people/ChristophMuus.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Christoph Muus, BSc</b><br>
-&nbsp;&nbsp;&nbsp;Collaborating Graduate Student<br>
-&nbsp;&nbsp;&nbsp;Dave Weitz Lab<br>
-&nbsp;&nbsp;&nbsp;Aviv Regev Lab<br>
-<br><br>
-
 <img alt="Zack Chiang" align="left" src="media/people/ZackChiang.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Zack Chiang, BS</b><br>
 &nbsp;&nbsp;&nbsp;Graduate Student<br>
