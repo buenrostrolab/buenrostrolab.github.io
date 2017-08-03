@@ -56,7 +56,7 @@ permalink: "people.html"
 <img alt="Alison Brack" align="left" src="media/people/AlisonBrack.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Alison Brack, BS</b><br>
 &nbsp;&nbsp;&nbsp;Research Assistant<br>
-&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;Aviv Regev Lab<br>
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
 
