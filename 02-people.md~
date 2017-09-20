@@ -51,12 +51,13 @@ permalink: "people.html"
 <img alt="Travis Law" align="left" src="media/people/TravisLaw.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Travis Law, BS</b><br>
 &nbsp;&nbsp;&nbsp;Research Assistant<br>
-<br><br><br><br>
+&nbsp;&nbsp;&nbsp;Aviv Regev Lab<br>
+<br><br><br>
 
 <img alt="Alison Brack" align="left" src="media/people/AlisonBrack.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Alison Brack, BS</b><br>
 &nbsp;&nbsp;&nbsp;Research Assistant<br>
-&nbsp;&nbsp;&nbsp;Aviv Regev Lab<br>
+&nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
 
