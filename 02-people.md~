@@ -34,6 +34,12 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;Tyler Jacks Lab<br>
 <br><br><br>
 
+<img alt="Tongtong Zhao" align="left" src="media/people/TongtongZhao.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Tongtong Zhao, PhD</b><br>
+&nbsp;&nbsp;&nbsp;Post Doctoral Fellow<br>
+&nbsp;&nbsp;&nbsp;Joint with Fei Chen Lab<br>
+<br><br><br>
+
 <img alt="Caleb Lareau" align="left" src="media/people/CalebLareau.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Caleb Lareau, MA</b><br>
 &nbsp;&nbsp;&nbsp;Graduate Student<br>
@@ -60,11 +66,6 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
-
-<img alt="David Morse" align="left" src="media/people/DavidMorse.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>David Morse, BS</b><br>
-&nbsp;&nbsp;&nbsp;Visiting Student<br>
-<br><br><br><br>
 
 <img alt="Jacob Ulirsch" align="left" src="media/people/JacobUlirsch.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Jacob Ulirsch, BS</b><br>
