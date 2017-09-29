@@ -40,6 +40,12 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;Joint with Fei Chen Lab<br>
 <br><br><br>
 
+<img alt="Sai Ma" align="left" src="media/people/SaiMa.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Sai Ma, PhD</b><br>
+&nbsp;&nbsp;&nbsp;Postdoctoral Fellow<br>
+&nbsp;&nbsp;&nbsp;Joint with Aviv Regev Lab<br>
+<br><br><br>
+
 <img alt="Caleb Lareau" align="left" src="media/people/CalebLareau.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Caleb Lareau, MA</b><br>
 &nbsp;&nbsp;&nbsp;Graduate Student<br>
@@ -71,6 +77,12 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;<b>Jacob Ulirsch, BS</b><br>
 &nbsp;&nbsp;&nbsp;Collaborating scientist<br>
 &nbsp;&nbsp;&nbsp;Vijay Sankaran Lab<br>
+<br><br><br>
+
+<img alt="Venkat Sankar" align="left" src="media/people/VenkatSankar.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Venkat Sankar</b><br>
+&nbsp;&nbsp;&nbsp;Undergraduate Research Fellow<br>
+&nbsp;&nbsp;&nbsp;Massachusetts Institute of Technology (MIT)<br>
 <br><br><br>
 
 <img alt="Cassandra Trowbridge" align="left" src="media/people/CassandraTrowbridge.jpg" width="140" height="140"/>

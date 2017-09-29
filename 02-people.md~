@@ -36,7 +36,7 @@ permalink: "people.html"
 
 <img alt="Tongtong Zhao" align="left" src="media/people/TongtongZhao.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Tongtong Zhao, PhD</b><br>
-&nbsp;&nbsp;&nbsp;Post Doctoral Fellow<br>
+&nbsp;&nbsp;&nbsp;Postdoctoral Fellow<br>
 &nbsp;&nbsp;&nbsp;Joint with Fei Chen Lab<br>
 <br><br><br>
 
