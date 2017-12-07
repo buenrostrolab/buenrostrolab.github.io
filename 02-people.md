@@ -30,7 +30,7 @@ permalink: "people.html"
 
 <img alt="Yuliya Sytnikova" align="left" src="media/people/YuliyaSytnikova.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>YuliyaSytnikova, PhD</b><br>
-&nbsp;&nbsp;&nbsp;VisitingPostdoctoral Fellow<br>
+&nbsp;&nbsp;&nbsp;Visiting Postdoctoral Fellow<br>
 &nbsp;&nbsp;&nbsp;<br>
 <br><br><br>
 
