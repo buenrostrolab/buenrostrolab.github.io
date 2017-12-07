@@ -15,29 +15,11 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;Twitter: [@jd_buenrostro](https://twitter.com/jd_buenrostro)<br>
 &nbsp;&nbsp;&nbsp;<a href="mailto:jbuen@broadinstitute.org">Contact
 
-<img alt="Marcin Tabaka" align="left" src="media/people/MarcinTabaka.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Marcin Tabaka, PhD</b><br>
-&nbsp;&nbsp;&nbsp;Collaborating Post Doc<br>
-&nbsp;&nbsp;&nbsp;Aviv Regev Lab<br>
-<br><br><br>
-
-<img alt="Leif Ludwig" align="left" src="media/people/LeifLudwig.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Leif Ludwig, MD PhD</b><br>
-&nbsp;&nbsp;&nbsp;Collaborating Post Doc<br>
-&nbsp;&nbsp;&nbsp;Aviv Regev Lab<br>
-&nbsp;&nbsp;&nbsp;Vijay Sankaran Lab<br>
-<br><br>
-
-<img alt="Lindsay LaFave" align="left" src="media/people/LindsayLaFave.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Lindsay LaFave, PhD</b><br>
-&nbsp;&nbsp;&nbsp;Collaborating Post Doc<br>
-&nbsp;&nbsp;&nbsp;Tyler Jacks Lab<br>
-<br><br><br>
-
-<img alt="Tongtong Zhao" align="left" src="media/people/TongtongZhao.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Tongtong Zhao, PhD</b><br>
+<b>Postdoctoral Fellows</b><br>
+<img alt="Fabiana Duarte" align="left" src="media/people/FabianaDuarte.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Fabiana Duarte, PhD</b><br>
 &nbsp;&nbsp;&nbsp;Postdoctoral Fellow<br>
-&nbsp;&nbsp;&nbsp;Joint with Fei Chen Lab<br>
+&nbsp;&nbsp;&nbsp;<br>
 <br><br><br>
 
 <img alt="Sai Ma" align="left" src="media/people/SaiMa.jpg" width="140" height="140"/>
@@ -46,6 +28,19 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;Joint with Aviv Regev Lab<br>
 <br><br><br>
 
+<img alt="Yuliya Sytnikova" align="left" src="media/people/YuliyaSytnikova.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>YuliyaSytnikova, PhD</b><br>
+&nbsp;&nbsp;&nbsp;VisitingPostdoctoral Fellow<br>
+&nbsp;&nbsp;&nbsp;<br>
+<br><br><br>
+
+<img alt="Tongtong Zhao" align="left" src="media/people/TongtongZhao.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Tongtong Zhao, PhD</b><br>
+&nbsp;&nbsp;&nbsp;Postdoctoral Fellow<br>
+&nbsp;&nbsp;&nbsp;Joint with Fei Chen Lab<br>
+<br><br><br>
+
+<b>Graduate Students</b><br>
 <img alt="Caleb Lareau" align="left" src="media/people/CalebLareau.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Caleb Lareau, MA</b><br>
 &nbsp;&nbsp;&nbsp;Graduate Student<br>
@@ -60,12 +55,27 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
 
-<img alt="Travis Law" align="left" src="media/people/TravisLaw.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Travis Law, BS</b><br>
-&nbsp;&nbsp;&nbsp;Research Assistant<br>
-&nbsp;&nbsp;&nbsp;Aviv Regev Lab<br>
+<b>Collaborating Scientists</b><br>
+<img alt="Lindsay LaFave" align="left" src="media/people/LindsayLaFave.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Lindsay LaFave, PhD</b><br>
+&nbsp;&nbsp;&nbsp;Collaborating Post Doc<br>
+&nbsp;&nbsp;&nbsp;Tyler Jacks Lab<br>
 <br><br><br>
 
+<img alt="Leif Ludwig" align="left" src="media/people/LeifLudwig.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Leif Ludwig, MD PhD</b><br>
+&nbsp;&nbsp;&nbsp;Collaborating Post Doc<br>
+&nbsp;&nbsp;&nbsp;Aviv Regev Lab<br>
+&nbsp;&nbsp;&nbsp;Vijay Sankaran Lab<br>
+<br><br>
+
+<img alt="Jacob Ulirsch" align="left" src="media/people/JacobUlirsch.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Jacob Ulirsch, BS</b><br>
+&nbsp;&nbsp;&nbsp;Collaborating graduate student<br>
+&nbsp;&nbsp;&nbsp;Vijay Sankaran Lab<br>
+<br><br><br>
+
+<b>Research Assistants</b><br>
 <img alt="Alison Brack" align="left" src="media/people/AlisonBrack.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Alison Brack, BS</b><br>
 &nbsp;&nbsp;&nbsp;Research Assistant<br>
@@ -73,18 +83,20 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
 
-<img alt="Jacob Ulirsch" align="left" src="media/people/JacobUlirsch.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Jacob Ulirsch, BS</b><br>
-&nbsp;&nbsp;&nbsp;Collaborating scientist<br>
-&nbsp;&nbsp;&nbsp;Vijay Sankaran Lab<br>
+<img alt="Travis Law" align="left" src="media/people/TravisLaw.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Travis Law, BS</b><br>
+&nbsp;&nbsp;&nbsp;Research Assistant<br>
+&nbsp;&nbsp;&nbsp;Aviv Regev Lab<br>
 <br><br><br>
 
+<b>Undergraduate Students</b><br>
 <img alt="Venkat Sankar" align="left" src="media/people/VenkatSankar.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Venkat Sankar</b><br>
 &nbsp;&nbsp;&nbsp;Undergraduate Research Fellow<br>
 &nbsp;&nbsp;&nbsp;Massachusetts Institute of Technology (MIT)<br>
 <br><br><br>
 
+<b>Adminstrative Support Staff</b><br>
 <img alt="Cassandra Trowbridge" align="left" src="media/people/CassandraTrowbridge.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Cassandra Trowbridge, BS</b><br>
 &nbsp;&nbsp;&nbsp;Broad Fellows Coordinator<br>
