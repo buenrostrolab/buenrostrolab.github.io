@@ -97,7 +97,7 @@ permalink: "people.html"
 <br><br><br>
 
 <b>Adminstrative Support Staff</b><br>
-<img alt="Cassandra Trowbridge" align="left" src="media/people/CassandraTrowbridge.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Cassandra Trowbridge, BS</b><br>
+<img alt="Meredith Fedorovsky" align="left" src="media/people/MeredithFedorovsky.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Meredith Fedorovsky, BFA</b><br>
 &nbsp;&nbsp;&nbsp;Broad Fellows Coordinator<br>
 <br><br><br><br>

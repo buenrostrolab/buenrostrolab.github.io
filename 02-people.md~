@@ -31,7 +31,7 @@ permalink: "people.html"
 <img alt="Yuliya Sytnikova" align="left" src="media/people/YuliyaSytnikova.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Yuliya Sytnikova, PhD</b><br>
 &nbsp;&nbsp;&nbsp;Visiting Postdoctoral Fellow<br>
-&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;Joint with Martha Bulyk Lab<br>
 <br><br><br>
 
 <img alt="Tongtong Zhao" align="left" src="media/people/TongtongZhao.jpg" width="140" height="140"/>
