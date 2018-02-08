@@ -22,6 +22,12 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;<br>
 <br><br><br>
 
+<img alt="Vinay Kartha" align="left" src="media/people/VinayKartha.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Vinay Kartha, PhD</b><br>
+&nbsp;&nbsp;&nbsp;Postdoctoral Fellow<br>
+&nbsp;&nbsp;&nbsp;<br>
+<br><br><br>
+
 <img alt="Sai Ma" align="left" src="media/people/SaiMa.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Sai Ma, PhD</b><br>
 &nbsp;&nbsp;&nbsp;Postdoctoral Fellow<br>

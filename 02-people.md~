@@ -96,8 +96,8 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;Massachusetts Institute of Technology (MIT)<br>
 <br><br><br>
 
-<b>Adminstrative Support Staff</b><br>
+<b>Administrative Support Staff</b><br>
 <img alt="Meredith Fedorovsky" align="left" src="media/people/MeredithFedorovsky.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Meredith Fedorovsky, BFA</b><br>
+&nbsp;&nbsp;&nbsp;<b>Meredith Fedorovsky</b><br>
 &nbsp;&nbsp;&nbsp;Broad Fellows Coordinator<br>
 <br><br><br><br>
