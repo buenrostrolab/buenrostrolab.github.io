@@ -40,12 +40,6 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;Joint with Aviv Regev Lab<br>
 <br><br><br>
 
-<img alt="Yuliya Sytnikova" align="left" src="media/people/YuliyaSytnikova.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Yuliya Sytnikova, PhD</b><br>
-&nbsp;&nbsp;&nbsp;Visiting Postdoctoral Fellow<br>
-&nbsp;&nbsp;&nbsp;Joint with Martha Bulyk Lab<br>
-<br><br><br>
-
 <img alt="Tongtong Zhao" align="left" src="media/people/TongtongZhao.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Tongtong Zhao, PhD</b><br>
 &nbsp;&nbsp;&nbsp;Postdoctoral Fellow<br>
@@ -62,8 +56,8 @@ permalink: "people.html"
 
 <img alt="Caleb Lareau" align="left" src="media/people/CalebLareau.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Caleb Lareau, MA</b><br>
-&nbsp;&nbsp;&nbsp;Graduate Student<br>
-&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;Collaborating Graduate Student<br>
+&nbsp;&nbsp;&nbsp;Vijay Sankaran Lab<br>
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
 

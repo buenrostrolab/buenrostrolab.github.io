@@ -28,6 +28,12 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;<br>
 <br><br><br>
 
+<img alt="Lindsay LaFave" align="left" src="media/people/LindsayLaFave.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Lindsay LaFave, PhD</b><br>
+&nbsp;&nbsp;&nbsp;Postdoctoral Fellow<br>
+&nbsp;&nbsp;&nbsp;Joint with Tyler Jacks Lab<br>
+<br><br><br>
+
 <img alt="Sai Ma" align="left" src="media/people/SaiMa.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Sai Ma, PhD</b><br>
 &nbsp;&nbsp;&nbsp;Postdoctoral Fellow<br>
@@ -61,26 +67,6 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
 
-<b>Collaborating Scientists</b><br>
-<img alt="Lindsay LaFave" align="left" src="media/people/LindsayLaFave.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Lindsay LaFave, PhD</b><br>
-&nbsp;&nbsp;&nbsp;Collaborating Post Doc<br>
-&nbsp;&nbsp;&nbsp;Tyler Jacks Lab<br>
-<br><br><br>
-
-<img alt="Leif Ludwig" align="left" src="media/people/LeifLudwig.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Leif Ludwig, MD PhD</b><br>
-&nbsp;&nbsp;&nbsp;Collaborating Post Doc<br>
-&nbsp;&nbsp;&nbsp;Aviv Regev Lab<br>
-&nbsp;&nbsp;&nbsp;Vijay Sankaran Lab<br>
-<br><br>
-
-<img alt="Jacob Ulirsch" align="left" src="media/people/JacobUlirsch.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Jacob Ulirsch, BS</b><br>
-&nbsp;&nbsp;&nbsp;Collaborating graduate student<br>
-&nbsp;&nbsp;&nbsp;Vijay Sankaran Lab<br>
-<br><br><br>
-
 <b>Research Assistants</b><br>
 <img alt="Alison Brack" align="left" src="media/people/AlisonBrack.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Alison Brack, BS</b><br>
@@ -88,12 +74,6 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
-
-<img alt="Travis Law" align="left" src="media/people/TravisLaw.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Travis Law, BS</b><br>
-&nbsp;&nbsp;&nbsp;Research Assistant<br>
-&nbsp;&nbsp;&nbsp;Aviv Regev Lab<br>
-<br><br><br>
 
 <b>Undergraduate Students</b><br>
 <img alt="Venkat Sankar" align="left" src="media/people/VenkatSankar.jpg" width="140" height="140"/>
