@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Moving to Harvard
+title: Harvard SCRB!
 tags: [lab news]
 ---
 
