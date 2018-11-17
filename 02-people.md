@@ -8,12 +8,12 @@ permalink: "people.html"
 
 <img alt="Jason D. Buenrostro, PhD" align="left" src="media/people/JasonBuenrostro.png" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Jason D. Buenrostro, PhD</b><br>
-&nbsp;&nbsp;&nbsp;Principal Investigator<br>
-&nbsp;&nbsp;&nbsp;[Broad Institute Fellow](https://www.broadinstitute.org/partnerships/academic-affairs/broad-fellows/broad-fellows-program)<br>
-&nbsp;&nbsp;&nbsp;[Harvard Society Junior Fellow](http://www.socfell.fas.harvard.edu/about.html)<br>
+&nbsp;&nbsp;&nbsp;Assistant Professor<br>
+&nbsp;&nbsp;&nbsp;Harvard University<br>
+&nbsp;&nbsp;&nbsp;[Stem Cell and Regenerative Biology](https://hscrb.harvard.edu/)<br>
 &nbsp;&nbsp;&nbsp;[Allen Distinguished Investigator](https://alleninstitute.org/what-we-do/frontiers-group/distinguished-investigators/)<br>
 &nbsp;&nbsp;&nbsp;Twitter: [@jd_buenrostro](https://twitter.com/jd_buenrostro)<br>
-&nbsp;&nbsp;&nbsp;<a href="mailto:jbuen@broadinstitute.org">Contact
+&nbsp;&nbsp;&nbsp;<a href="mailto:jason_buenrostro@harvard.edu">Contact
 
 <b>Postdoctoral Fellows</b><br>
 <img alt="Fabiana Duarte" align="left" src="media/people/FabianaDuarte.jpg" width="140" height="140"/>
