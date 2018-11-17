@@ -77,7 +77,7 @@ permalink: "people.html"
 <br><br><br>
 
 <b>Administrative Support Staff</b><br>
-<img alt="Meredith Fedorovsky" align="left" src="media/people/MeredithFedorovsky.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Meredith Fedorovsky</b><br>
-&nbsp;&nbsp;&nbsp;Broad Fellows Coordinator<br>
+<img alt="Meredith Fedorovsky" align="left" src="media/people/BethVarrichio-1.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Beth Varrichio</b><br>
+&nbsp;&nbsp;&nbsp;Faculty Assistant<br>
 <br><br><br><br>
