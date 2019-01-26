@@ -83,7 +83,7 @@ permalink: "people.html"
 <br><br><br>
 
 <b>Administrative Support Staff</b><br>
-<img alt="Kevin Harrington" align="left" src="media/people/KevinHarrington.jpg" width="140" height="140"/>
+<img alt="Kevin Harrington" align="left" src="media/people/KevinHarrington.jpg" width="140" height="180"/>
 &nbsp;&nbsp;&nbsp;<b>Kevin Harrington</b><br>
 &nbsp;&nbsp;&nbsp;Faculty Assistant<br>
 &nbsp;&nbsp;[Contact](https://hscrb.harvard.edu/people/kevin-harrington)<br>
