@@ -83,7 +83,8 @@ permalink: "people.html"
 <br><br><br>
 
 <b>Administrative Support Staff</b><br>
-<img alt="Meredith Fedorovsky" align="left" src="media/people/BethVarrichio-1.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Beth Varrichio</b><br>
+<img alt="Kevin Harrington" align="left" src="media/people/KevinHarrington.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Kevin Harrington</b><br>
 &nbsp;&nbsp;&nbsp;Faculty Assistant<br>
-<br><br><br><br>
+&nbsp;&nbsp;[Contact](https://hscrb.harvard.edu/people/kevin-harrington)<br>
+<br><br><br>

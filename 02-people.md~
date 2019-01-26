@@ -61,13 +61,6 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
 
-<img alt="Tristan Tay" align="left" src="media/people/TristanTay.png" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Tristan Tay</b><br>
-&nbsp;&nbsp;&nbsp;Rotating Graduate Student<br>
-&nbsp;&nbsp;&nbsp;<br>
-&nbsp;&nbsp;&nbsp;<br>
-<br><br>
-
 <b>Research Assistants</b><br>
 <img alt="Alison Brack" align="left" src="media/people/AlisonBrack.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Alison Brack, BS</b><br>
@@ -77,6 +70,12 @@ permalink: "people.html"
 <br><br>
 
 <b>Undergraduate Students</b><br>
+<img alt="Max Bahdanovich" align="left" src="media/people/MaxBahdanovich.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Max Bahdanovich</b><br>
+&nbsp;&nbsp;&nbsp;Undergraduate Research Fellow<br>
+&nbsp;&nbsp;&nbsp;Harvard University<br>
+<br><br><br>
+
 <img alt="Venkat Sankar" align="left" src="media/people/VenkatSankar.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Venkat Sankar</b><br>
 &nbsp;&nbsp;&nbsp;Undergraduate Research Fellow<br>
