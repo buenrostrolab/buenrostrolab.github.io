@@ -11,12 +11,13 @@ Motivation
 
 The human body is comprised of a large collection of diverse cell types,
 each providing a specialized and context-specific function. The advent of high-throughput
-single-cell transcriptomics, has enabled unbiased categorization of diverse developmental
-and diseased cellular trajectories. However, with current genome-wide approaches,
+single-cell technologies, has enabled unbiased categorization of diverse developmental
+and diseased cellular processes. However, with current approaches,
 little can be done to understand: i) how cells vary through time, ii) how this variance
 effects cellular decisions and iii) how TFs affect the activity of regulatory elements
 (trans) and, in turn, how these elements lead to functional expression differences (cis).
-Our lab seeks to address these challenges by developing the next-generation of biological
+Our lab seeks to <a href="http://www.nature.com/nbt/journal/v32/n6/abs/nbt.2880.html" target="_blank">
+address these challenges</a> by developing the next-generation of biological
 tools, tools that integrate molecular biology, microscopy and large-scale bioinformatics
 to provide a systems-level understanding of single-cells.
 
