@@ -51,7 +51,7 @@ Notable examples include methods for high-content
 <a href="http://www.nature.com/nbt/journal/v32/n6/abs/nbt.2880.html" target="_blank">image-analysis</a>,
 <a href="http://genome.cshlp.org/content/early/2015/08/27/gr.192294.115" target="_blank">nucleosome calling</a>
 and <a href="http://biorxiv.org/content/early/2017/02/21/110346" target="_blank">single-cell epigenomics</a>.
-Now, we look to build new computational methods that focus on integrating ensemble and single-cell ‘-omics’ data to infer causative
+Now, we look to build new computational methods that focus on <a href="https://www.cell.com/cell/fulltext/S0092-8674(18)31650-7" target="_blank">integrating</a> ensemble and single-cell ‘-omics’ data to infer causative
 gene networks. Such networks will seek to model governing cis and trans effectors of dynamic cell function.<br><br>
 
 <h3> Application to dynamic biological systems </h3>
@@ -62,5 +62,5 @@ in  human development and disease, we currently focus on <a href="http://www.nat
 <a href="https://www.cell.com/cell/abstract/S0092-8674(18)30446-X" target="_blank">human hematopoiesis</a>,
 however, our efforts are collaborative and we welcome new endeavors. In previous work, we have used some
 of the experimental and computational methods described above to both understand molecular effectors that govern
-<a href="https://www.cell.com/cell/fulltext/S0092-8674(18)31650-7" target="_blank">hematopoietic cell fate</a> and in addition we use these findings to better understand the ontogeny of the human cancer,
+hematopoietic cell fate and in addition we use these findings to better understand the ontogeny of the human cancer,
 Acute Myeloid Leukemia (AML).<br><br>

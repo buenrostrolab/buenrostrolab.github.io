@@ -16,7 +16,7 @@ and diseased cellular processes. However, with current approaches,
 little can be done to understand: i) how cells vary through time, ii) how this variance
 effects cellular decisions and iii) how TFs affect the activity of regulatory elements
 (trans) and, in turn, how these elements lead to functional expression differences (cis).
-Our lab seeks to <a href="http://www.nature.com/nbt/journal/v32/n6/abs/nbt.2880.html" target="_blank">
+Our lab seeks to <a href="https://www.nature.com/articles/s41588-018-0290-x" target="_blank">
 address these challenges</a> by developing the next-generation of biological
 tools, tools that integrate molecular biology, microscopy and large-scale bioinformatics
 to provide a systems-level understanding of single-cells.
@@ -25,7 +25,7 @@ to provide a systems-level understanding of single-cells.
 Research Interests
 ------------------
 
-<h3> Developing new ‘-omic’ technologies </h3>
+<h3> Developing new genomic technologies </h3>
 
 <img alt="scATAC.jpg" align="left" src="media/research/scATAC.jpg" width="250" height="170"/>
 
@@ -59,8 +59,8 @@ gene networks. Such networks will seek to model governing cis and trans effector
 
 These efforts coalesce into our studies of dynamic cellular systems. While we have a broad interest
 in  human development and disease, we currently focus on <a href="http://www.nature.com/ng/journal/v48/n10/full/ng.3646.html" target="_blank">leukemia</a> and early
-<a href="http://biorxiv.org/content/early/2017/02/21/109843.1" target="_blank">human hematopoiesis</a>,
-however, our efforts are largely collaborative and we welcome new endeavors. In previous work, we have used some
+<a href="https://www.cell.com/cell/abstract/S0092-8674(18)30446-X" target="_blank">human hematopoiesis</a>,
+however, our efforts are collaborative and we welcome new endeavors. In previous work, we have used some
 of the experimental and computational methods described above to both understand molecular effectors that govern
-hematopoietic cell fate and in addition we use these findings to better understand the ontogeny of the human cancer,
+<a href="https://www.cell.com/cell/fulltext/S0092-8674(18)31650-7" target="_blank">hematopoietic cell fate</a> and in addition we use these findings to better understand the ontogeny of the human cancer,
 Acute Myeloid Leukemia (AML).<br><br>
