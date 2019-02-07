@@ -86,5 +86,5 @@ permalink: "people.html"
 <img alt="Kevin Harrington" align="left" src="media/people/KevinHarrington.jpg" width="140" height="160"/>
 &nbsp;&nbsp;&nbsp;<b>Kevin Harrington</b><br>
 &nbsp;&nbsp;&nbsp;Faculty Assistant<br>
-&nbsp;&nbsp;[Contact](https://hscrb.harvard.edu/people/kevin-harrington)<br>
+&nbsp;&nbsp;&nbsp;[Contact](https://hscrb.harvard.edu/people/kevin-harrington)<br>
 <br><br><br>
