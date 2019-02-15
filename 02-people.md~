@@ -61,6 +61,13 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
 
+<img alt="Julian Segert" align="left" src="media/people/JulianSegert.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Julian Segert</b><br>
+&nbsp;&nbsp;&nbsp;Rotating Graduate Student<br>
+&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;<br>
+<br><br>
+
 <b>Research Assistants</b><br>
 <img alt="Alison Brack" align="left" src="media/people/AlisonBrack.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Alison Brack, BS</b><br>
