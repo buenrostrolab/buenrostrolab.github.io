@@ -16,6 +16,12 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;<a href="mailto:jason_buenrostro@harvard.edu">Contact
 
 <b>Postdoctoral Fellows</b><br>
+<img alt="Salman Banani" align="left" src="media/people/SalmanBanani.JPG" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Salman Banani, MD PhD</b><br>
+&nbsp;&nbsp;&nbsp;Postdoctoral Fellow<br>
+&nbsp;&nbsp;&nbsp;<br>
+<br><br><br>
+
 <img alt="Fabiana Duarte" align="left" src="media/people/FabianaDuarte.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Fabiana Duarte, PhD</b><br>
 &nbsp;&nbsp;&nbsp;Postdoctoral Fellow<br>

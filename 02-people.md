@@ -74,6 +74,13 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
 
+<img alt="Tristan Tay" align="left" src="media/people/TristanTay.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Tristan Tay</b><br>
+&nbsp;&nbsp;&nbsp;Graduate Student<br>
+&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;<br>
+<br><br>
+
 <b>Research Assistants</b><br>
 <img alt="Alison Brack" align="left" src="media/people/AlisonBrack.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Alison Brack, BS</b><br>
