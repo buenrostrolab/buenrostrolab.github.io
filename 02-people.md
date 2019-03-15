@@ -60,6 +60,13 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
 
+<img alt="Andrew Earl" align="left" src="media/people/AndrewEarl.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Andrew Earl</b><br>
+&nbsp;&nbsp;&nbsp;Rotating Graduate Student<br>
+&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;<br>
+<br><br>
+
 <img alt="Caleb Lareau" align="left" src="media/people/CalebLareau.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Caleb Lareau, MA</b><br>
 &nbsp;&nbsp;&nbsp;Collaborating Graduate Student<br>
