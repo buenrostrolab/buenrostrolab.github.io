@@ -53,6 +53,13 @@ permalink: "people.html"
 <br><br><br>
 
 <b>Graduate Students</b><br>
+<img alt="Luolan Bai" align="left" src="media/people/LuolanBai.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Luolan Bai</b><br>
+&nbsp;&nbsp;&nbsp;Rotating Graduate Student<br>
+&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;<br>
+<br><br>
+
 <img alt="Zack Chiang" align="left" src="media/people/ZackChiang.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Zack Chiang, BS</b><br>
 &nbsp;&nbsp;&nbsp;Graduate Student<br>
