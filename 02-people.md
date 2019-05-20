@@ -60,6 +60,13 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
 
+<img alt="Anita Chandarahas" align="left" src="media/people/AnitaChandrahas.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Anita Chandrahas</b><br>
+&nbsp;&nbsp;&nbsp;Rotating Graduate Student<br>
+&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;<br>
+<br><br>
+
 <img alt="Zack Chiang" align="left" src="media/people/ZackChiang.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Zack Chiang, BS</b><br>
 &nbsp;&nbsp;&nbsp;Graduate Student<br>
@@ -88,16 +95,16 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
 
-<img alt="Julian Segert" align="left" src="media/people/JulianSegert.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Julian Segert</b><br>
-&nbsp;&nbsp;&nbsp;Rotating Graduate Student<br>
+<img alt="Tristan Tay" align="left" src="media/people/TristanTay.png" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Tristan Tay</b><br>
+&nbsp;&nbsp;&nbsp;Graduate Student<br>
 &nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
 
-<img alt="Tristan Tay" align="left" src="media/people/TristanTay.png" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Tristan Tay</b><br>
-&nbsp;&nbsp;&nbsp;Graduate Student<br>
+<img alt="Sam Zimmerman" align="left" src="media/people/SamZimmerman.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Sam Zimmerman</b><br>
+&nbsp;&nbsp;&nbsp;Rotating Graduate Student<br>
 &nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
