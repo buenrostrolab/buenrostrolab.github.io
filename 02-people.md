@@ -53,13 +53,6 @@ permalink: "people.html"
 <br><br><br>
 
 <b>Graduate Students</b><br>
-<img alt="Luolan Bai" align="left" src="media/people/LuolanBai.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Luolan Bai</b><br>
-&nbsp;&nbsp;&nbsp;Rotating Graduate Student<br>
-&nbsp;&nbsp;&nbsp;<br>
-&nbsp;&nbsp;&nbsp;<br>
-<br><br>
-
 <img alt="Anita Chandarahas" align="left" src="media/people/AnitaChandrahas.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Anita Chandrahas</b><br>
 &nbsp;&nbsp;&nbsp;Rotating Graduate Student<br>
@@ -76,14 +69,14 @@ permalink: "people.html"
 
 <img alt="Mollie Driller-Colangelo" align="left" src="media/people/MollieDriller-Colangelo.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Mollie Driller-Colangelo</b><br>
-&nbsp;&nbsp;&nbsp;Rotating Graduate Student<br>
+&nbsp;&nbsp;&nbsp;Graduate Student<br>
 &nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
 
 <img alt="Andrew Earl" align="left" src="media/people/AndrewEarl.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Andrew Earl</b><br>
-&nbsp;&nbsp;&nbsp;Rotating Graduate Student<br>
+&nbsp;&nbsp;&nbsp;Graduate Student<br>
 &nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
@@ -92,6 +85,13 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;<b>Caleb Lareau, MA</b><br>
 &nbsp;&nbsp;&nbsp;Collaborating Graduate Student<br>
 &nbsp;&nbsp;&nbsp;Vijay Sankaran Lab<br>
+&nbsp;&nbsp;&nbsp;<br>
+<br><br>
+
+<img alt="Yen-Der Li" align="left" src="media/people/YenderLi.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Yen-Der Li</b><br>
+&nbsp;&nbsp;&nbsp;Rotating Graduate Student<br>
+&nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
 
@@ -120,14 +120,14 @@ permalink: "people.html"
 <b>Undergraduate Students</b><br>
 <img alt="Max Bahdanovich" align="left" src="media/people/MaxBahdanovich.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Max Bahdanovich</b><br>
-&nbsp;&nbsp;&nbsp;Undergraduate Research Fellow<br>
+&nbsp;&nbsp;&nbsp;Undergraduate Student<br>
 &nbsp;&nbsp;&nbsp;Harvard University<br>
 <br><br><br>
 
-<img alt="Venkat Sankar" align="left" src="media/people/VenkatSankar.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Venkat Sankar</b><br>
-&nbsp;&nbsp;&nbsp;Undergraduate Research Fellow<br>
-&nbsp;&nbsp;&nbsp;Massachusetts Institute of Technology (MIT)<br>
+<img alt="Shivani Thakur" align="left" src="media/people/ShivaniThakur.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Shivani Thakur</b><br>
+&nbsp;&nbsp;&nbsp;Undergraduate Student<br>
+&nbsp;&nbsp;&nbsp;Harvard University<br>
 <br><br><br>
 
 <b>Administrative Support Staff</b><br>
