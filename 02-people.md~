@@ -34,6 +34,12 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;<br>
 <br><br><br>
 
+<img alt="Ajay Labade" align="left" src="media/people/AjayLabade.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Ajay Labade, PhD</b><br>
+&nbsp;&nbsp;&nbsp;Postdoctoral Fellow<br>
+&nbsp;&nbsp;&nbsp;<br>
+<br><br><br>
+
 <img alt="Lindsay LaFave" align="left" src="media/people/LindsayLaFave.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Lindsay LaFave, PhD</b><br>
 &nbsp;&nbsp;&nbsp;Postdoctoral Fellow<br>
@@ -84,13 +90,6 @@ permalink: "people.html"
 <img alt="Tristan Tay" align="left" src="media/people/TristanTay.png" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Tristan Tay</b><br>
 &nbsp;&nbsp;&nbsp;Graduate Student<br>
-&nbsp;&nbsp;&nbsp;<br>
-&nbsp;&nbsp;&nbsp;<br>
-<br><br>
-
-<img alt="Sam Zimmerman" align="left" src="media/people/SamZimmerman.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Sam Zimmerman</b><br>
-&nbsp;&nbsp;&nbsp;Rotating Graduate Student<br>
 &nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
