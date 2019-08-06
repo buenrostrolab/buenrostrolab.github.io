@@ -53,13 +53,6 @@ permalink: "people.html"
 <br><br><br>
 
 <b>Graduate Students</b><br>
-<img alt="Anita Chandarahas" align="left" src="media/people/AnitaChandrahas.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Anita Chandrahas</b><br>
-&nbsp;&nbsp;&nbsp;Rotating Graduate Student<br>
-&nbsp;&nbsp;&nbsp;<br>
-&nbsp;&nbsp;&nbsp;<br>
-<br><br>
-
 <img alt="Zack Chiang" align="left" src="media/people/ZackChiang.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Zack Chiang, BS</b><br>
 &nbsp;&nbsp;&nbsp;Graduate Student<br>
@@ -85,13 +78,6 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;<b>Caleb Lareau, MA</b><br>
 &nbsp;&nbsp;&nbsp;Collaborating Graduate Student<br>
 &nbsp;&nbsp;&nbsp;Vijay Sankaran Lab<br>
-&nbsp;&nbsp;&nbsp;<br>
-<br><br>
-
-<img alt="Yen-Der Li" align="left" src="media/people/YenderLi.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Yen-Der Li</b><br>
-&nbsp;&nbsp;&nbsp;Rotating Graduate Student<br>
-&nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
 
