@@ -9,17 +9,11 @@ permalink: "research.html"
 Motivation
 ----------
 
-The human body is comprised of a large collection of diverse cell types,
-each providing a specialized and context-specific function. The advent of high-throughput
-single-cell technologies, has enabled unbiased categorization of diverse developmental
-and diseased cellular processes. However, with current approaches,
-little can be done to understand: i) how cells vary through time, ii) how this variance
-effects cellular decisions and iii) how TFs affect the activity of regulatory elements
-(trans) and, in turn, how these elements lead to functional expression differences (cis).
-Our lab seeks to <a href="https://www.nature.com/articles/s41588-018-0290-x" target="_blank">
-address these challenges</a> by developing the next-generation of biological
-tools, tools that integrate molecular biology, microscopy and large-scale bioinformatics
-to provide a systems-level understanding of single-cells.
+The human body is comprised of a large collection of diverse cell types, each providing a specialized and context-specific function. The advent of high-throughput single-cell technologies have enabled unbiased categorization of cells from diverse developmental and diseased processes.
+
+In our work we seek to use single-cell tools to understand: i) how cells vary through time, ii) how these differences affect cellular decisions and iii) how transcription factors affect the activity of regulatory elements and, in turn, how these elements lead to functional differences in expression.
+
+Our lab seeks to <a href="https://www.nature.com/articles/s41588-018-0290-x" target="_blank"> address these challenges</a> by developing biological tools to measure chromatin dynamics in single-cells. Further, we use these tools to study chromatin alterations in adult stem cells across normal, ageing and cancer tissues in effort to uncover new mechanisms of gene regulation and their contribution to disease.
 
 
 Research Interests
