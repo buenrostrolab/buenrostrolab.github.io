@@ -17,7 +17,7 @@ Our lab seeks to <a href="https://www.nature.com/articles/s41588-018-0290-x" tar
 Research Interests
 ------------------
 
-<h3> Developing new genomic technologies </h3>
+<h3> Developing new technologies </h3>
 
 <img alt="scATAC.jpg" align="left" src="media/research/scATAC.jpg" width="250" height="170"/>
 
@@ -46,13 +46,13 @@ and <a href="http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4401.h
 Now, we look to build new computational methods that focus on <a href="https://www.cell.com/cell/fulltext/S0092-8674(18)31650-7" target="_blank">integrating</a> ensemble and single-cell ‘-omics’ data to infer causative
 gene networks. Such networks will seek to model governing cis and trans effectors of dynamic cell function.<br><br>
 
-<h3> Application to dynamic biological systems </h3>
+<h3> Epigenomic regulation of cell fate decisions </h3>
 <img alt="GATA-variance" align="left" src="media/research/GATA-variance.jpg" width="240" height="170"/>
 
-These efforts coalesce into our studies of dynamic cellular systems. While we have a broad interest
-in  human development and disease, we currently focus on <a href="http://www.nature.com/ng/journal/v48/n10/full/ng.3646.html" target="_blank">leukemia</a> and early
-<a href="https://www.cell.com/cell/abstract/S0092-8674(18)30446-X" target="_blank">human hematopoiesis</a>,
-however, our efforts are collaborative and we welcome new endeavors. In previous work, we have used some
-of the experimental and computational methods described above to both understand molecular effectors that govern
+These efforts coalesce into our studies of the epigenome across cell fate decisions. In the lab we study
+<a href="http://www.nature.com/ng/journal/v48/n10/full/ng.3646.html" target="_blank">leukemia</a> and early
+<a href="https://www.cell.com/cell/abstract/S0092-8674(18)30446-X" target="_blank">human hematopoiesis</a>.
+However, we also collaborate broadly and we welcome new endeavors. In previous work, we have used some
+of the experimental and computational methods described above to both understand the regulatory effectors that govern
 hematopoietic cell fate and in addition we use these findings to better understand the ontogeny of the human cancer,
 Acute Myeloid Leukemia (AML).<br><br>
