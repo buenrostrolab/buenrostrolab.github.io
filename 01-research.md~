@@ -50,7 +50,7 @@ the need for new computational tools. We develop computational solutions to supp
 Notable examples include methods for high-content
 <a href="http://www.nature.com/nbt/journal/v32/n6/abs/nbt.2880.html" target="_blank">image-analysis</a>,
 <a href="http://genome.cshlp.org/content/early/2015/08/27/gr.192294.115" target="_blank">nucleosome calling</a>
-and <a href="http://biorxiv.org/content/early/2017/02/21/110346" target="_blank">single-cell epigenomics</a>.
+and <a href="http://www.nature.com/nmeth/journal/vaop/ncurrent/full/nmeth.4401.html" target="_blank">single-cell epigenomics</a>.
 Now, we look to build new computational methods that focus on <a href="https://www.cell.com/cell/fulltext/S0092-8674(18)31650-7" target="_blank">integrating</a> ensemble and single-cell ‘-omics’ data to infer causative
 gene networks. Such networks will seek to model governing cis and trans effectors of dynamic cell function.<br><br>
 
