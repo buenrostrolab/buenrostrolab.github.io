@@ -37,8 +37,9 @@ permalink: "people.html"
 <img alt="Ajay Labade" align="left" src="media/people/AjayLabade.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Ajay Labade, PhD</b><br>
 &nbsp;&nbsp;&nbsp;Postdoctoral Fellow<br>
-&nbsp;&nbsp;&nbsp;B4 Fellow, Harvard South Asia Institute<br>
-<br><br><br>
+&nbsp;&nbsp;&nbsp;B4 Fellow<br>
+&nbsp;&nbsp;&nbsp;Harvard South Asia Institute<br>
+<br><br>
 
 <img alt="Lindsay LaFave" align="left" src="media/people/LindsayLaFave.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Lindsay LaFave, PhD</b><br>
