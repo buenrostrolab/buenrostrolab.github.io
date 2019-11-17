@@ -37,7 +37,7 @@ For a full list see: <a href="http://www.ncbi.nlm.nih.gov/pubmed?term=%22Buenros
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•  Featured in <a href="http://www.nature.com/nmeth/journal/v11/n1/full/nmeth.2770.html" target="_blank">Nature Methods</a> and voted most influential paper by <a href="https://www.iscb.org/recomb-regsysgen2014-submissions/recomb-regsysgen2014-top-ten-papers" target="_blank"> RECOMB/ISCB</a>
 9. Carpenter ML, <b>Buenrostro JD</b>, Valdiosera C, et al. <a href="http://www.sciencedirect.com/science/article/pii/S000292971300459X" target="_blank">Pulling out the 1%: Whole-Genome Capture for the Targeted Enrichment of Ancient DNA Sequencing Libraries</a>. The American Journal of Human Genetics (2013).<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•  Featured in <a href="http://science.sciencemag.org/content/342/6158/543.full" target="_blank"> Science </a> and <a href="http://www.nature.com/ng/journal/v45/n12/full/ng.2842.html" target="_blank"> Nature Genetics </a>
-10. Myllykangas S\* & <b>Buenrostro JD</b>\*, Natsoulis G, Bell JM, Ji HP. <a href="http://www.nature.com/nbt/journal/v29/n11/full/nbt.1996.html" target="_blank">Efficient targeted resequencing of human germline and cancer genomes by oligonucleotide-selective sequencing</a>. Nature Biotechnology (2011).
+10. Myllykangas S\* & <b>Buenrostro JD</b>\*, Natsoulis G, Bell JM, Ji HP. <a href="http://www.nature.com/nbt/journal/v29/n11/full/nbt.1996.html" target="_blank">Efficient targeted resequencing of human germline and cancer genomes by oligonucleotide-selective sequencing</a>. Nature Biotechnology (2011).<br>
 (\*equal contribution) (☨co-corresponding)<br>
 
 <b>ADDITIONAL PUBLICATIONS
