@@ -88,6 +88,13 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
 
+<img alt="Rojesh Shrestha" align="left" src="media/people/RojeshShrestha.png" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Rojesh Shrestha</b><br>
+&nbsp;&nbsp;&nbsp;Graduate Student<br>
+&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;<br>
+<br><br>
+
 <img alt="Tristan Tay" align="left" src="media/people/TristanTay.png" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Tristan Tay</b><br>
 &nbsp;&nbsp;&nbsp;Graduate Student<br>
