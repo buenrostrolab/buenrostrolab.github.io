@@ -111,12 +111,6 @@ permalink: "people.html"
 <br><br>
 
 <b>Undergraduate Students</b><br>
-<img alt="Max Bahdanovich" align="left" src="media/people/MaxBahdanovich.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Max Bahdanovich</b><br>
-&nbsp;&nbsp;&nbsp;Undergraduate Student<br>
-&nbsp;&nbsp;&nbsp;Harvard University<br>
-<br><br><br>
-
 <img alt="Shivani Thakur" align="left" src="media/people/ShivaniThakur.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Shivani Thakur</b><br>
 &nbsp;&nbsp;&nbsp;Undergraduate Student<br>
