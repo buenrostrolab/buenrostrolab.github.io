@@ -53,6 +53,12 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;Joint with Aviv Regev Lab<br>
 <br><br><br>
 
+<img alt="Surya Nagaraja" align="left" src="media/people/SuryaNagaraja_2.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Surya Nagaraja, MD PhD</b><br>
+&nbsp;&nbsp;&nbsp;Postdoctoral Fellow<br>
+&nbsp;&nbsp;&nbsp;<br>
+<br><br><br>
+
 <img alt="Tongtong Zhao" align="left" src="media/people/TongtongZhao.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Tongtong Zhao, PhD</b><br>
 &nbsp;&nbsp;&nbsp;Postdoctoral Fellow<br>

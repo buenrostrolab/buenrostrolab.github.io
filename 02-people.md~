@@ -95,7 +95,7 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
 
-<img alt="Rachel Savage" align="left" src="media/people/RachelSavage.png" width="140" height="140"/>
+<img alt="Rachel Savage" align="left" src="media/people/RachelSavage.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Rachel Savage</b><br>
 &nbsp;&nbsp;&nbsp;Graduate Student<br>
 &nbsp;&nbsp;&nbsp;<br>
