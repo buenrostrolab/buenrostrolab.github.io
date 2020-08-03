@@ -59,12 +59,6 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;<br>
 <br><br><br>
 
-<img alt="Tongtong Zhao" align="left" src="media/people/TongtongZhao.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Tongtong Zhao, PhD</b><br>
-&nbsp;&nbsp;&nbsp;Postdoctoral Fellow<br>
-&nbsp;&nbsp;&nbsp;Joint with Fei Chen Lab<br>
-<br><br><br>
-
 <b>Graduate Students</b><br>
 <img alt="Zack Chiang" align="left" src="media/people/ZackChiang.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Zack Chiang, BS</b><br>
@@ -111,14 +105,6 @@ permalink: "people.html"
 <img alt="Tristan Tay" align="left" src="media/people/TristanTay.png" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Tristan Tay</b><br>
 &nbsp;&nbsp;&nbsp;Graduate Student<br>
-&nbsp;&nbsp;&nbsp;<br>
-&nbsp;&nbsp;&nbsp;<br>
-<br><br>
-
-<b>Research Assistants</b><br>
-<img alt="Alison Brack" align="left" src="media/people/AlisonBrack.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Alison Brack, BS</b><br>
-&nbsp;&nbsp;&nbsp;Research Assistant<br>
 &nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
