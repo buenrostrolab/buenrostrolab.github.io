@@ -26,7 +26,7 @@ For a full list see: <a href="http://www.ncbi.nlm.nih.gov/pubmed?term=%22Buenros
 7. Yoshida H, Lareau CA, Ramirez RN, Rose SA, Maier B, Wroblewska A, Desland F, Chudnovskiy A, Mortha A, Dominguez C, Tellier J, Kim E, Dwyer D, Shinton S, Nabekura T, Qi Y, Yu B, Robinette M, Kim K, Wagers A, Rhoads A, Nutt SL, Brown BD, Mostafavi S☨, Buenrostro JD☨, Benoist C☨, the Immunological Genome Project. <a href="https://www.cell.com/cell/fulltext/S0092-8674(18)31650-7" target="_blank">The cis-Regulatory Atlas of the Mouse Immune System</a>. Cell (2019).
 8. Shema E, Bernstein BE, Buenrostro JD. <a href="https://www.nature.com/articles/s41588-018-0290-x" target="_blank">Single-cell and single-molecule epigenomics to uncover genome regulation at unprecedented resolution</a>. Nature Genetics (2018).
 <br>
-9. Buenrostro JD☨, Corces R, Lareau C, Wu B, Schep AN, Aryee MJ, Majeti R, Chang HY, Greenleaf WJ☨. <a href="https://www.cell.com/cell/abstract/S0092-8674(18)30446-X" target="_blank">Integrated Single-Cell Analysis Maps the Continuous Regulatory Landscape of Human Hematopoietic Differentiation</a>. Cell (2018).
+9. Buenrostro JD☨, Corces R, Lareau C, Wu B, Schep AN, Aryee MJ, Majeti R, Chang HY, Greenleaf WJ☨. <a href="https://www.cell.com/cell/abstract/S0092-8674(18)30446-X" target="_blank">Integrated Single-Cell Analysis Maps the Continuous Regulatory Landscape of Human Hematopoietic Differentiation</a>. Cell (2018).<br>
 (\*equal contribution) (☨co-corresponding)<br>
 
 <b>PUBLICATIONS (2010-current)
