@@ -4,7 +4,7 @@ title:
 group: navigation
 permalink: "people.html"
 ---
-{% include JB/setup %}
+1;95;0c{% include JB/setup %}
 
 <img alt="Jason D. Buenrostro, PhD" align="left" src="media/people/JasonBuenrostro.png" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Jason D. Buenrostro, PhD</b><br>
@@ -53,7 +53,7 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;Joint with Aviv Regev Lab<br>
 <br><br><br>
 
-<img alt="Surya Nagaraja" align="left" src="media/people/SuryaNagaraja_3.JPG" width="140" height="140"/>
+<img alt="Surya Nagaraja" align="left" src="media/people/SuryaNagaraja.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Surya Nagaraja, MD PhD</b><br>
 &nbsp;&nbsp;&nbsp;Postdoctoral Fellow<br>
 &nbsp;&nbsp;&nbsp;<br>
