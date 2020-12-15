@@ -15,6 +15,7 @@ For a full list see: <a href="http://www.ncbi.nlm.nih.gov/pubmed?term=%22Buenros
 
 <b> SELECTED PUBLICATIONS (2018-current)
 1. Ma S, Zhang B, LaFave L, Chiang Z, Hu Y, Ding J, Brack A, Kartha VK, Law T, Lareau C, Hsu Y, Regev A☨, Buenrostro JD☨.  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0092867420312538" target="_blank">Chromatin potential identified by shared single cell profiling of RNA and chromatin</a>. Cell (2020).<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•  Featured in <a href="https://www.nature.com/articles/s41576-020-00308-6" target="_blank"> Nature Rev. Genetics </a>
 2. LaFave LM, Kartha VK\*, Ma S\*, Meli K, Priore ID, Lareau C, Naranjo S, Westcott P, Duarte FM, Sankar V, Chiang Z, Brack A, Law T, Hauck H, Okimoto A, Regev A, Buenrostro JD☨, Tyler Jacks☨. <a href="https://www.cell.com/cancer-cell/fulltext/S1535-6108(20)30310-X" target="_blank">Epigenomic State Transitions Characterize Tumor Progression in Mouse Lung Adenocarcinoma</a>. Cancer Cell (2020).<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•  Featured in <a href="https://linkinghub.elsevier.com/retrieve/pii/S1535-6108(20)30362-7" target="_blank"> Cancer Cell </a>
 3. Lareau C☨, Ma S, Duarte F, Buenrostro JD☨.  <a href="https://www.nature.com/articles/s41467-020-14667-5" target="_blank">Inference and effects of barcode multiplets in droplet-based single-cell assays</a>. Nature Communications (2020).<br>
