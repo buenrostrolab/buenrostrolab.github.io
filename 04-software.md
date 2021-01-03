@@ -8,7 +8,7 @@ permalink: "software.html"
 
 Software
 ------------
-<br>[In situ DNA sequencing](https://buenrostrolab.shinyapps.io/insituseq/): In situ DNA sequencing
+<br>[In situ DNA sequencing](https://buenrostrolab.shinyapps.io/insituseq/): In situ DNA sequencing of early embryos
 <br>[SHARE-seq skin network](https://buenrostrolab.shinyapps.io/skinnetwork/): SHARE-seq mouse skin network
 <br>[scATAC Lung Tumor Atlas](https://buenrostrolab.shinyapps.io/lungATAC/): Epigenomic changes in mouse lung tumors
 <br>[scATAC-TCR-seq browser](https://molpath.shinyapps.io/scatactcr/): TCR and TF visualization
