@@ -4,7 +4,7 @@ title:
 group: navigation
 permalink: "people.html"
 ---
-1;95;0c{% include JB/setup %}
+{% include JB/setup %}
 
 <img alt="Jason D. Buenrostro, PhD" align="left" src="media/people/JasonBuenrostro.png" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Jason D. Buenrostro, PhD</b><br>
