@@ -80,8 +80,7 @@ For a full list see: <a href="http://www.ncbi.nlm.nih.gov/pubmed?term=%22Buenros
 <b>PATENTS
 1. Buenrostro JD, Ma S, Regev A. <a href="https://patents.google.com/patent/US20200248255A1" target="_blank">Methods and compositions for analyzing nucleic acids</a> (2019).
 1. Chen F, Payne AC, Buenrostro JD, Reginato P, Boyden ES. <a href="https://patents.google.com/patent/WO2019241273A1" target="_blank">In Situ ATAC Sequencing</a> (2018).
-1. Chang HY, Greenleaf WJ, Xingqi Chen, Buenrostro JD. <a href="httpqs://patents.google.com/patent/WO2017156336A1" target="_blank">Transposase-mediated imaging of the accessible genome</a> (2017).
-1. Chang HY, Greenleaf WJ, Xingqi Chen, Buenrostro JD. <a href="https://patents.google.com/patent/WO2017156336A1" target="_blank">Transposase-mediated imaging of the accessible genome</a> (2017).
+1. Chang HY, Greenleaf WJ, Chen X, Buenrostro JD. <a href="httpqs://patents.google.com/patent/WO2017156336A1" target="_blank">Transposase-mediated imaging of the accessible genome</a> (2017).
 2. Giresi P, Buenrostro JD, Chang HY, Greenleaf WJ. <a href="https://www.google.com/patents/US20160060691" target="_blank">Transposition of Native Chromatin for Personal Epigenomics</a> (2013).
 3. Bustamante CD, Carpenter ML, Buenrostro JD, Greenleaf WJ. <a href="https://www.google.com/patents/US20150360194" target="_blank">Enrichment of DNA Sequencing Libraries from Samples Containing Small Amounts of Target DNA</a> (2013).
 4. Myllykangas S, Buenrostro JD, Ji HP. <a href="https://www.google.com/patents/US9309556" target="_blank">Direct Capture, Amplification and Sequencing of Target DNA Using Immobilized Primers</a> (2010).
