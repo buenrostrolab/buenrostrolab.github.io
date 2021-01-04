@@ -78,8 +78,8 @@ For a full list see: <a href="http://www.ncbi.nlm.nih.gov/pubmed?term=%22Buenros
 27. Whittall JB, Syring J, Parks M, Buenrostro J, Dick C, Liston A, Cronn R. <a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1365-294X.2009.04474.x/full" target="_blank">Finding a (pine) needle in a haystack: chloroplast genome sequence divergence in rare and widespread pines</a>. Molecular Ecology (2010).
 
 <b>PATENTS
+1. Buenrostro JD, Ma S, Regev A. <a href="https://patents.google.com/patent/US20200248255A1" target="_blank">Methods and compositions for analyzing nucleic acids</a> (2019).
 1. Chen F, Payne AC, Buenrostro JD, Reginato P, Boyden ES. <a href="https://patents.google.com/patent/WO2019241273A1" target="_blank">In Situ ATAC Sequencing</a> (2018).
-1. Buenrostro JD, Ma S, Regev A. <a href="https://patents.google.com/patent/US20200248255A1" target="_blank">Methods and compositions for analyzing nucleic acids</a> (2018).
 1. Chang HY, Greenleaf WJ, Xingqi Chen, Buenrostro JD. <a href="httpqs://patents.google.com/patent/WO2017156336A1" target="_blank">Transposase-mediated imaging of the accessible genome</a> (2017).
 1. Chang HY, Greenleaf WJ, Xingqi Chen, Buenrostro JD. <a href="https://patents.google.com/patent/WO2017156336A1" target="_blank">Transposase-mediated imaging of the accessible genome</a> (2017).
 2. Giresi P, Buenrostro JD, Chang HY, Greenleaf WJ. <a href="https://www.google.com/patents/US20160060691" target="_blank">Transposition of Native Chromatin for Personal Epigenomics</a> (2013).
