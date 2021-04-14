@@ -32,6 +32,7 @@ For a full list see: <a href="http://www.ncbi.nlm.nih.gov/pubmed?term=%22Buenros
 (\*equal contribution) (☨co-corresponding)<br>
 
 <b>PUBLICATIONS (2010-current)
+10. LaFave LM, Buenrostro JD. <a href="https://www.nature.com/articles/s43018-020-00158-5" target="_blank">Unlocking PDAC initiation with AP-1</a>. (2021).<br>
 10. Choi S, Zhang B, Ma S, Gonzalez-Celeiro M, Stein D, Jin X, Kim ST, Kang YL, Besnard A, Rezza A, Grisanti L, Buenrostro JD, Rendl M, Nahrendorf M, Sahay A, Hsu YC. <a href="https://www.nature.com/articles/s41586-021-03417-2" target="_blank">Corticosterone inhibits GAS6 to govern hair follicle stem-cell quiescence</a>. (2021).<br>
 11. Li Q, Meissner TB, Wang F, Du Z, Ma S, Kshirsagar S, Tilburgs T, Buenrostro JD, Uesugi M, Strominger JL. <a href="https://www.pnas.org/content/118/9/e2025512118.long" target="_blank">ELF3 activated by a superenhancer and an autoregulatory feedback loop is required for high-level HLA-C expression on extravillous trophoblasts</a>. (2021).<br>
 12. Agbleke AA, Amitai A, Buenrostro JD, Chakrabarti A, Chu L, Hansen AS, Koenig KM, Labade AS, Liu S, Nozaki T, Ovchinnikov S, Seeber A, Shaban HA, Spille JH, Stephens AD, Su JH, Wadduwage D. <a href="https://linkinghub.elsevier.com/retrieve/pii/S1097-2765(20)30469-X" target="_blank">Advances in Chromatin and Chromosome Research: Perspectives from Multiple Fields</a>. Molecular Cell (2020).<br>
