@@ -130,7 +130,7 @@ permalink: "people.html"
 <br><br><br>
 
 <b>Undergraduate Students</b><br>
-<img alt="Tyler Masuyama" align="left" src="media/people/TylerMasuyama.jpg" width="140" height="140"/>
+<img alt="Tyler Masuyama" align="left" src="media/people/TylerMasuyama2.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Tyler Masuyama</b><br>
 &nbsp;&nbsp;&nbsp;Undergraduate Student, Joint with Mark Fishman<br>
 &nbsp;&nbsp;&nbsp;Harvard University<br>
