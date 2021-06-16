@@ -8,7 +8,7 @@ permalink: "people.html"
 
 <img alt="Jason D. Buenrostro, PhD" align="left" src="media/people/JasonBuenrostro.png" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Jason D. Buenrostro, PhD</b><br>
-&nbsp;&nbsp;&nbsp;Assistant Professor<br>
+1;95;0c&nbsp;&nbsp;&nbsp;Assistant Professor<br>
 &nbsp;&nbsp;&nbsp;Harvard University<br>
 &nbsp;&nbsp;&nbsp;[Stem Cell and Regenerative Biology](https://hscrb.harvard.edu/)<br>
 &nbsp;&nbsp;&nbsp;[Broad Institute, Gene Regulation Observatory](https://www.broadinstitute.org/gene-regulation-observatory-gro)<br>
@@ -73,7 +73,7 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
 
-<img alt="Caroline Comenho" align="left" src="media/people/CarolineComenho.jpg" width="140" height="140"/>
+<img alt="Caroline Comenho" align="left" src="media/people/CarolineComenho.jpeg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Caroline Comenho, BS</b><br>
 &nbsp;&nbsp;&nbsp;Graduate Student<br>
 &nbsp;&nbsp;&nbsp;<br>
