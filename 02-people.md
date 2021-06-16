@@ -11,7 +11,7 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;Assistant Professor<br>
 &nbsp;&nbsp;&nbsp;Harvard University<br>
 &nbsp;&nbsp;&nbsp;[Stem Cell and Regenerative Biology](https://hscrb.harvard.edu/)<br>
-&nbsp;&nbsp;&nbsp;[Allen Distinguished Investigator](https://alleninstitute.org/what-we-do/frontiers-group/distinguished-investigators/)<br>
+&nbsp;&nbsp;&nbsp;[Broad Institute, Gene Regulation Observatory](https://www.broadinstitute.org/gene-regulation-observatory-gro)<br>
 &nbsp;&nbsp;&nbsp;Twitter: [@jd_buenrostro](https://twitter.com/jd_buenrostro)<br>
 &nbsp;&nbsp;&nbsp;<a href="mailto:jason_buenrostro@harvard.edu">Contact
 
@@ -26,6 +26,12 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;<b>Fabiana Duarte, PhD</b><br>
 &nbsp;&nbsp;&nbsp;Postdoctoral Fellow<br>
 &nbsp;&nbsp;&nbsp;<br>
+<br><br><br>
+
+<img alt="Elizabeth Jaensch" align="left" src="media/people/ElizabethJaensch.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Elizabeth Jaensch, PhD</b><br>
+&nbsp;&nbsp;&nbsp;Postdoctoral Fellow<br>
+&nbsp;&nbsp;&nbsp;Joint with AstraZeneca<br>
 <br><br><br>
 
 <img alt="Vinay Kartha" align="left" src="media/people/VinayKartha.jpg" width="140" height="140"/>
@@ -62,6 +68,13 @@ permalink: "people.html"
 <b>Graduate Students</b><br>
 <img alt="Zack Chiang" align="left" src="media/people/ZackChiang.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Zack Chiang, BS</b><br>
+&nbsp;&nbsp;&nbsp;Graduate Student<br>
+&nbsp;&nbsp;&nbsp;<br>
+&nbsp;&nbsp;&nbsp;<br>
+<br><br>
+
+<img alt="Caroline Comenho" align="left" src="media/people/CarolineComenho.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Caroline Comenho, BS</b><br>
 &nbsp;&nbsp;&nbsp;Graduate Student<br>
 &nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;<br>
@@ -108,6 +121,13 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
+
+<b>Research Assistants</b><br>
+<img alt="Andres Castillo" align="left" src="media/people/AndresCastillo.png" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Andres Castillo</b><br>
+&nbsp;&nbsp;&nbsp;Research Assistant<br>
+&nbsp;&nbsp;&nbsp;<br>
+<br><br><br>
 
 <b>Undergraduate Students</b><br>
 <img alt="Shivani Thakur" align="left" src="media/people/ShivaniThakur.jpg" width="140" height="140"/>
