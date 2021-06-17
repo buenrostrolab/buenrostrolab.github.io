@@ -67,14 +67,14 @@ permalink: "people.html"
 
 <b>Graduate Students</b><br>
 <img alt="Zack Chiang" align="left" src="media/people/ZackChiang.jpg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Zack Chiang, BS</b><br>
+&nbsp;&nbsp;&nbsp;<b>Zack Chiang</b><br>
 &nbsp;&nbsp;&nbsp;Graduate Student<br>
 &nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;<br>
 <br><br>
 
 <img alt="Caroline Comenho" align="left" src="media/people/CarolineComenho.jpeg" width="140" height="140"/>
-&nbsp;&nbsp;&nbsp;<b>Caroline Comenho, BS</b><br>
+&nbsp;&nbsp;&nbsp;<b>Caroline Comenho</b><br>
 &nbsp;&nbsp;&nbsp;Graduate Student<br>
 &nbsp;&nbsp;&nbsp;<br>
 &nbsp;&nbsp;&nbsp;<br>
