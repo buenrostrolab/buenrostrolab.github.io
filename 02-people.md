@@ -6,7 +6,7 @@ permalink: "people.html"
 ---
 {% include JB/setup %}
 
-<img alt="Jason D. Buenrostro, PhD" align="left" src="media/people/JasonBuenrostro.png" width="140" height="140"/>
+<img alt="Jason D. Buenrostro, PhD" align="left" src="media/people/JasonBuenrostro2.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Jason D. Buenrostro, PhD</b><br>
 &nbsp;&nbsp;&nbsp;Assistant Professor<br>
 &nbsp;&nbsp;&nbsp;Harvard University<br>
