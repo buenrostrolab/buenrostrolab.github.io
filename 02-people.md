@@ -129,7 +129,7 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;<br>
 <br><br><br>
 
-<img alt="Juliana Babu" align="left" src="media/people/JulianaBabu.jpg" width="140" height="140"/>
+<img alt="Juliana Babu" align="left" src="media/people/JulianaBabu2.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Juliana Babu</b><br>
 &nbsp;&nbsp;&nbsp;Research Assistant<br>
 &nbsp;&nbsp;&nbsp;<br>
