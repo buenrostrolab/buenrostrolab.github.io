@@ -142,7 +142,6 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;Harvard University<br>
 <br><br><br>
 
-<br><br><br>
 <b>Administrative Support Staff</b><br>
 <img alt="Kevin Harrington" align="left" src="media/people/KevinHarrington.jpg" width="140" height="160"/>
 &nbsp;&nbsp;&nbsp;<b>Kevin Harrington</b><br>
