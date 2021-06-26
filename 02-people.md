@@ -129,6 +129,12 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;<br>
 <br><br><br>
 
+<img alt="Juliana Babu" align="left" src="media/people/JulianaBabu.jpg" width="140" height="140"/>
+&nbsp;&nbsp;&nbsp;<b>Juliana Babu</b><br>
+&nbsp;&nbsp;&nbsp;Research Assistant<br>
+&nbsp;&nbsp;&nbsp;<br>
+<br><br><br>
+
 <b>Undergraduate Students</b><br>
 <img alt="Tyler Masuyama" align="left" src="media/people/TylerMasuyama2.jpg" width="140" height="140"/>
 &nbsp;&nbsp;&nbsp;<b>Tyler Masuyama</b><br>
@@ -136,6 +142,7 @@ permalink: "people.html"
 &nbsp;&nbsp;&nbsp;Harvard University<br>
 <br><br><br>
 
+<br><br><br>
 <b>Administrative Support Staff</b><br>
 <img alt="Kevin Harrington" align="left" src="media/people/KevinHarrington.jpg" width="140" height="160"/>
 &nbsp;&nbsp;&nbsp;<b>Kevin Harrington</b><br>
